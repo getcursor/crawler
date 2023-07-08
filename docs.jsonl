@@ -1,0 +1,58 @@
+{ "name": "CodeMirror", "url": "https://codemirror.net/docs/", "prefixUrl": "https://codemirror.net/docs/" }
+{ "name": "React", "url": "https://react.dev/reference/", "prefixUrl": "https://react.dev/reference/" }
+{ "name": "Tailwind CSS", "url": "https://tailwindcss.com/docs/", "prefixUrl": "https://tailwindcss.com/docs/" }
+{ "name": "Stripe", "url": "https://stripe.com/docs/api", "prefixUrl": "https://stripe.com/docs/api" }
+{ "name": "PostHog", "url": "https://posthog.com/docs", "prefixUrl": "https://posthog.com/docs" }
+{ "name": "Express", "url": "https://expressjs.com/en/5x/", "prefixUrl": "https://expressjs.com/en/5x/api.html" }
+{ "name": "Boto3", "url": "https://boto3.amazonaws.com/v1/documentation/api/latest/", "prefixUrl": "https://boto3.amazonaws.com/v1/documentation/api/latest/index.html" }
+{ "name": "Redux", "url": "https://redux.js.org/api/", "prefixUrl": "https://redux.js.org/api/" }
+{ "name": "Electron", "url": "https://www.electronjs.org/docs/latest/", "prefixUrl": "https://www.electronjs.org/docs/latest/" }
+{ "name": "Tauri", "url": "https://tauri.app/v1/api/js/", "prefixUrl": "https://tauri.app/v1/api/js/" }
+{ "name": "selenium-python", "url": "https://selenium-python.readthedocs.io/", "prefixUrl": "https://selenium-python.readthedocs.io/" }
+{ "name": "SolidJS", "url": "https://www.solidjs.com/docs/", "prefixUrl": "https://www.solidjs.com/docs/" }
+{ "name": "Lexical", "url": "https://lexical.dev/docs/concepts/editor-state", "prefixUrl": "https://lexical.dev/docs/concepts/editor-state" }
+{ "name": "Lexical Packages", "url": "https://lexical.dev/docs/packages/lexical", "prefixUrl": "https://lexical.dev/docs/packages/lexical" }
+{ "name": "Prisma", "url": "https://www.prisma.io/docs", "prefixUrl": "https://www.prisma.io/docs" }
+{ "name": "Kubernetes", "url": "https://kubernetes.io/docs/", "prefixUrl": "https://kubernetes.io/docs/" }
+{ "name": "Sentry-Python", "url": "https://docs.sentry.io/platforms/python/", "prefixUrl": "https://docs.sentry.io/platforms/python/" }
+{ "name": "Pytorch", "url": "https://pytorch.org/docs/stable/", "prefixUrl": "https://pytorch.org/docs/stable/" }
+{ "name": "Transformers", "url": "https://huggingface.co/docs/transformers/", "prefixUrl": "https://huggingface.co/docs/transformers/" }
+{ "name": "Hugging-Face-Transformers", "url": "https://huggingface.co/docs/transformers/", "prefixUrl": "https://huggingface.co/docs/transformers/" }
+{ "name": "Langchain-Python", "url": "https://python.langchain.com/docs/", "prefixUrl": "https://python.langchain.com/docs/" }
+{ "name": "Vue", "url": "https://vuejs.org/guide/", "prefixUrl": "https://vuejs.org/guide/" }
+{ "name": "Angular", "url": "https://angular.io/docs", "prefixUrl": "https://angular.io/docs" }
+{ "name": "Astro", "url": "https://docs.astro.build/en/", "prefixUrl": "https://docs.astro.build/en/" }
+{ "name": "Elixir", "url": "https://elixir-lang.org/docs.html", "prefixUrl": "https://elixir-lang.org/docs.html" }
+{ "name": "Svelte", "url": "https://svelte.dev/docs", "prefixUrl": "https://svelte.dev/docs" }
+{ "name": "PineconeDB", "url": "https://docs.pinecone.io/docs/", "prefixUrl": "https://docs.pinecone.io/docs/" }
+{ "name": "Redis", "url": "https://redis.io/docs/", "prefixUrl": "https://redis.io/docs/" }
+{ "name": "KeyDB", "url": "https://docs.keydb.dev/docs/", "prefixUrl": "https://docs.keydb.dev/docs/" }
+{ "name": "Yugabyte", "url": "https://docs.yugabyte.com/", "prefixUrl": "https://docs.yugabyte.com/" }
+{ "name": "Tensorflow-Python", "url": "https://www.tensorflow.org/api_docs/python/tf/", "prefixUrl": "https://www.tensorflow.org/api_docs/python/tf/" }
+{ "name": "Tmux", "url": "https://tmuxguide.readthedocs.io/en/latest/tmux/tmux.html", "prefixUrl": "https://tmuxguide.readthedocs.io/en/latest/tmux/tmux.html" }
+{ "name": "FFmpeg", "url": "https://ffmpeg.org/ffmpeg.html", "prefixUrl": "https://ffmpeg.org/ffmpeg.html" }
+{ "name": "Flutter", "url": "https://docs.flutter.dev/", "prefixUrl": "https://docs.flutter.dev/" }
+{ "name": "Pandas", "url": "https://pandas.pydata.org/docs/", "prefixUrl": "https://pandas.pydata.org/docs/" }
+{ "name": "Julia", "url": "https://docs.julialang.org/en/v1/", "prefixUrl": "https://docs.julialang.org/en/v1/" }
+{ "name": "Django", "url": "https://docs.djangoproject.com/en/4.2/", "prefixUrl": "https://docs.djangoproject.com/en/4.2/" }
+{ "name": "Flask", "url": "https://flask.palletsprojects.com/en/2.3.x/", "prefixUrl": "https://flask.palletsprojects.com/en/2.3.x/" }
+{ "name": "Keras", "url": "https://keras.io/api/", "prefixUrl": "https://keras.io/api/" }
+{ "name": "Langchain-JS", "url": "https://js.langchain.com/docs/", "prefixUrl": "https://js.langchain.com/docs/" }
+{ "name": "requests", "url": "https://requests.readthedocs.io/en/latest/api/", "prefixUrl": "https://requests.readthedocs.io/en/latest/api/" }
+{ "name": "ggplot2", "url": "https://ggplot2.tidyverse.org/reference/", "prefixUrl": "https://ggplot2.tidyverse.org/reference/" }
+{ "name": "RubyOnRails", "url": "https://api.rubyonrails.org/", "prefixUrl": "https://api.rubyonrails.org/" }
+{ "name": "Spark", "url": "https://spark.apache.org/docs/latest/", "prefixUrl": "https://spark.apache.org/docs/latest/" }
+{ "name": "PySpark", "url": "https://spark.apache.org/docs/latest/api/python/", "prefixUrl": "https://spark.apache.org/docs/latest/api/python/" }
+{ "name": "LanguageServerProtocol", "url": "https://microsoft.github.io/language-server-protocol/specifications/lsp/3.17/specification/", "prefixUrl": "https://microsoft.github.io/language-server-protocol/specifications/lsp/3.17/specification/" }
+{ "name": "axios", "url": "https://axios-http.com/docs/api_intro", "prefixUrl": "https://axios-http.com/docs/api_intro" }
+{ "name": "Jquery", "url": "https://api.jqueryui.com/1.12/", "prefixUrl": "https://api.jqueryui.com/1.12/" }
+{ "name": "lodash", "url": "https://lodash.com/docs/", "prefixUrl": "https://lodash.com/docs/" }
+{ "name": "java.swing", "url": "https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/javax/swing/", "prefixUrl": "https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/javax/swing/package-summary.html" }
+{ "name": "Matplotlib", "url": "https://matplotlib.org/stable/api/", "prefixUrl": "https://matplotlib.org/stable/api/" }
+{ "name": "NodeJS", "url": "https://nodejs.org/api/", "prefixUrl": "https://nodejs.org/api/" }
+{ "name": "Apache Tomcat", "url": "https://tomcat.apache.org/tomcat-8.5-doc/", "prefixUrl": "https://tomcat.apache.org/tomcat-8.5-doc/" }
+{ "name": "redb", "url": "https://docs.rs/redb/latest/redb/", "prefixUrl": "https://docs.rs/redb/latest/redb/" }
+{ "name": "OpenAI", "url": "https://platform.openai.com/docs/", "prefixUrl": "https://platform.openai.com/docs/" }
+{ "name": "Notion", "url": "https://developers.notion.com/reference/", "prefixUrl": "https://developers.notion.com/reference/" }
+{ "name": "GCP CLI", "url": "https://cloud.google.com/sdk/docs", "prefixUrl": "https://cloud.google.com/sdk/docs" }
+{ "name": "AWS CLI", "url": "https://docs.aws.amazon.com/cli/latest/reference/", "prefixUrl": "https://docs.aws.amazon.com/cli/latest/reference/" }
