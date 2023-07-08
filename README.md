@@ -1,6 +1,12 @@
 # docs
 
-The docs that Cursor's AI can see out-of-the-box.
+The docs that [Cursor](https://cursor.so/) can see out-of-the-box.
+
+<p align="center">
+<a href="https://cursor.so/">
+<img src="https://github.com/getcursor/docs/assets/4297743/05eca702-b524-4870-b491-20b9cd59a8a2" width="700"><br>
+</a>
+</p>
 
 ### Contributing
 
