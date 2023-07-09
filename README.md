@@ -4,7 +4,7 @@ The docs that [Cursor](https://cursor.so/) can see out-of-the-box.
 
 <p align="center">
 <a href="https://cursor.so/">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/4297743/252109754-fff63f88-a69d-4297-8e8d-6003e822cfa9.png" width="700"><br>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/4297743/252120561-58028389-522b-4391-abd2-d159fb017519.png" width="700"><br>
 </a>
 </p>
 
