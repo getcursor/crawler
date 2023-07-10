@@ -80,3 +80,5 @@
 { "name": "FastAPI", "crawlerStart": "https://fastapi.tiangolo.com/tutorial/", "crawlerPrefix": "https://fastapi.tiangolo.com/tutorial/" }
 { "name": "Nuxt", "crawlerStart": "https://nuxt.com/docs", "crawlerPrefix": "https://nuxt.com/docs" }
 { "name": "Postgres", "crawlerStart": "https://www.postgresql.org/docs/current/index.html", "crawlerPrefix": "https://www.postgresql.org/docs/current/" }
+{ "name": "Streamlit", "crawlerStart": "https://docs.streamlit.io/", "crawlerPrefix": "https://docs.streamlit.io/" }
+
