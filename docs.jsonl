@@ -367,3 +367,4 @@
 { "name": "Amazon EC2", "crawlerStart": "https://docs.aws.amazon.com/ec2/index.html", "crawlerPrefix": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/" }
 { "name": "Aws Lambda", "crawlerStart": "https://docs.aws.amazon.com/lambda/index.html", "crawlerPrefix": "https://docs.aws.amazon.com/lambda/latest/dg/" }
 { "name": "Mantis", "crawlerStart": "https://www.mantisbt.org/documentation.php", "crawlerPrefix": "https://www.mantisbt.org/docs/master/en-US/Developers_Guide/" }
+{ "name": "React ADmin", "crawlerStart": "https://marmelab.com/react-admin/documentation.html", "crawlerPrefix": "https://marmelab.com/react-admin/" }
