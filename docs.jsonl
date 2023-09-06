@@ -320,7 +320,8 @@
 { "name": "Date-fns", "crawlerStart": "https://date-fns.org/docs/Getting-Started", "crawlerPrefix": "https://date-fns.org/v2.30.0/docs/" }
 { "name": "Luxon", "crawlerStart": "https://moment.github.io/luxon/docs/manual/", "crawlerPrefix": "https://moment.github.io/luxon/docs/manual/" }
 { "name": "Chrono", "crawlerStart": "https://docs.rs/chrono/0.4.26/chrono/index.html", "crawlerPrefix": "https://docs.rs/chrono/0.4.26/chrono/" }
-{ "name": "WordPress", "crawlerStart": "https://developer.wordpress.com/docs/", "crawlerPrefix": "https://developer.wordpress.com/docs/" }
+{ "name": "WordPress.com", "crawlerStart": "https://developer.wordpress.com/docs/", "crawlerPrefix": "https://developer.wordpress.com/docs/" }
+{ "name": "WordPress.org", "crawlerStart": "https://developer.wordpress.org/", "crawlerPrefix": "https://developer.wordpress.org/" }
 { "name": "Swiper", "crawlerStart": "https://swiperjs.com/get-started", "crawlerPrefix": "https://swiperjs.com/swiper-api" }
 { "name": "Flickity", "crawlerStart": "https://flickity.metafizzy.co/", "crawlerPrefix": "https://flickity.metafizzy.co/" }
 { "name": "Glide.js", "crawlerStart": "https://glidejs.com/docs/", "crawlerPrefix": "https://glidejs.com/" }
