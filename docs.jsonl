@@ -372,3 +372,4 @@
 { "name": "SQLFluff", "crawlerStart": "https://docs.sqlfluff.com/en/stable/", "crawlerPrefix": "https://docs.sqlfluff.com/en/stable/" }
 { "name": "Ruff", "crawlerStart": "https://beta.ruff.rs/docs/", "crawlerPrefix": "https://beta.ruff.rs/docs/" }
 { "name": "FusionAuth API", "crawlerStart": "https://fusionauth.io/docs/v1/tech/apis/", "crawlerPrefix": "https://fusionauth.io/docs/v1/tech/apis/" }
+{ "name": "Serp Google Scholar API", "crawlerStart": "https://serpapi.com/google-scholar-api", "crawlerPrefix": "https://serpapi.com/google-scholar-api" }
