@@ -375,3 +375,4 @@
 { "name": "FusionAuth API", "crawlerStart": "https://fusionauth.io/docs/v1/tech/apis/", "crawlerPrefix": "https://fusionauth.io/docs/v1/tech/apis/" }
 { "name": "Serp Google Scholar API", "crawlerStart": "https://serpapi.com/google-scholar-api", "crawlerPrefix": "https://serpapi.com/google-scholar-api" }
 { "name": "MDN", "crawlerStart": "https://developer.mozilla.org/en-US/docs/", "crawlerPrefix": "https://developer.mozilla.org/en-US/docs/" }
+{ "name": "Babylon.js", "crawlerStart": "https://doc.babylonjs.com/", "crawlerPrefix": "https://doc.babylonjs.com/" }
