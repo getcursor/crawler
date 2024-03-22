@@ -380,3 +380,8 @@
 { "name": "Domo", "crawlerStart": "https://developer.domo.com/", "crawlerPrefix": "https://developer.domo.com/" }
 { "name": "Crystal", "crawlerStart": "https://crystal-lang.org/api", "crawlerPrefix": "https://crystal-lang.org/api" }
 { "name": "Amber", "crawlerStart": "https://docs.amberframework.org/amber", "crawlerPrefix": "https://docs.amberframework.org/amber" }
+{ "name": "Polars", "crawlerStart": "https://docs.pola.rs/py-polars/html/reference/", "crawlerPrefix": "https://docs.pola.rs/py-polars/html/reference/" }
+{ "name": "LlamaIndex", "crawlerStart": "https://docs.llamaindex.ai/en/stable/", "crawlerPrefix": "https://docs.llamaindex.ai/en/stable/" }
+{ "name": "Anthropic", "crawlerStart": "https://docs.anthropic.com/claude/docs/intro-to-claude", "crawlerPrefix": "https://docs.anthropic.com/claude/" }
+{ "name": "BERTopic", "crawlerStart": "https://maartengr.github.io/BERTopic/index.html", "crawlerPrefix": "https://maartengr.github.io/BERTopic/" }
+{ "name": "JAX", "crawlerStart": "https://jax.readthedocs.io/en/latest/", "crawlerPrefix": "https://jax.readthedocs.io/en/latest/" }
