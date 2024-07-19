@@ -382,3 +382,7 @@
 { "name": "Amber", "crawlerStart": "https://docs.amberframework.org/amber", "crawlerPrefix": "https://docs.amberframework.org/amber" }
 { "name": "TLDraw", "crawlerStart": "https://tldraw.dev/", "crawlerPrefix": "https://tldraw.dev/" }
 { "name": "Swift", "crawlerStart": "https://developer.apple.com/documentation/technologies", "crawlerPrefix": "https://developer.apple.com/documentation/technologies" }
+{ "name": "DiscordJS", "crawlerStart": "https://discordjs.guide/", "crawlerPrefix": "https://discordjs.guide/" }
+{ "name": "Remix", "crawlerStart": "https://remix.run/docs", "crawlerPrefix": "https://remix.run/docs" }
+{ "name": "Shadcn", "crawlerStart": "https://ui.shadcn.com/docs", "crawlerPrefix": "https://ui.shadcn.com/docs" }
+{ "name": "Bun", "crawlerStart": "https://bun.sh/docs", "crawlerPrefix": "https://bun.sh/docs" }
