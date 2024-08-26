@@ -113,6 +113,7 @@
 { "name": "NextUI", "crawlerStart": "https://nextui.org/docs", "crawlerPrefix": "https://nextui.org/docs" }
 { "name": "PrimeReact", "crawlerStart": "https://primereact.org/", "crawlerPrefix": "https://primereact.org/" }
 { "name": "Grommet", "crawlerStart": "https://v2.grommet.io/docs", "crawlerPrefix": "https://v2.grommet.io/" }
+{ "name": "Gadget", "crawlerStart": "https://docs.gadget.dev/guides", "crawlerPrefix": "https://docs.gadget.dev/guides" }
 { "name": "Onsen UI", "crawlerStart": "https://onsen.io/v2/api/css.html", "crawlerPrefix": "https://onsen.io/v2/api/" }
 { "name": "Quasar", "crawlerStart": "hhttps://quasar.dev/docs", "crawlerPrefix": "https://quasar.dev/" }
 { "name": "Vuetify", "crawlerStart": "https://vuetifyjs.com/en/getting-started/installation/", "crawlerPrefix": "https://vuetifyjs.com/en/" }
@@ -371,6 +372,7 @@
 { "name": "Mantis", "crawlerStart": "https://www.mantisbt.org/documentation.php", "crawlerPrefix": "https://www.mantisbt.org/docs/master/en-US/Developers_Guide/" }
 { "name": "React Admin", "crawlerStart": "https://marmelab.com/react-admin/documentation.html", "crawlerPrefix": "https://marmelab.com/react-admin/" }
 { "name": "SQLFluff", "crawlerStart": "https://docs.sqlfluff.com/en/stable/", "crawlerPrefix": "https://docs.sqlfluff.com/en/stable/" }
+{ "name": "Zod", "crawlerStart": "https://zod.dev/", "crawlerPrefix": "https://zod.dev/" }
 { "name": "Ruff", "crawlerStart": "https://beta.ruff.rs/docs/", "crawlerPrefix": "https://beta.ruff.rs/docs/" }
 { "name": "FusionAuth API", "crawlerStart": "https://fusionauth.io/docs/v1/tech/apis/", "crawlerPrefix": "https://fusionauth.io/docs/v1/tech/apis/" }
 { "name": "Serp Google Scholar API", "crawlerStart": "https://serpapi.com/google-scholar-api", "crawlerPrefix": "https://serpapi.com/google-scholar-api" }
