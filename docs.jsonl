@@ -49,6 +49,7 @@
 {  "name": "Flask",  "crawlerStart": "https://flask.palletsprojects.com/en/2.3.x/",  "crawlerPrefix": "https://flask.palletsprojects.com/en/2.3.x/"}
 {  "name": "Flutter",  "crawlerStart": "https://docs.flutter.dev/",  "crawlerPrefix": "https://docs.flutter.dev/"}
 {  "name": "FontAwesome",  "crawlerStart": "https://fontawesome.com/docs/web/",  "crawlerPrefix": "https://fontawesome.com/docs/web/"}
+{  "name": "Gadget",  "crawlerStart": "https://docs.gadget.dev/guides",  "crawlerPrefix": "https://docs.gadget.dev/guides"}
 {  "name": "GCP CLI",  "crawlerStart": "https://cloud.google.com/sdk/docs",  "crawlerPrefix": "https://cloud.google.com/sdk/docs"}
 {  "name": "Git",  "crawlerStart": "https://git-scm.com/docs",  "crawlerPrefix": "https://git-scm.com/docs"}
 {  "name": "GitHub Actions",  "crawlerStart": "https://docs.github.com/en/actions",  "crawlerPrefix": "https://docs.github.com/en/actions"}
