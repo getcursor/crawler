@@ -108,7 +108,7 @@
 { "name": "React Bootstrap", "crawlerStart": "https://react-bootstrap.netlify.app/docs/getting-started/introduction", "crawlerPrefix": "https://react-bootstrap.netlify.app/docs/" }
 { "name": "Semantic UI", "crawlerStart": "https://semantic-ui.com/behaviors/api.html", "crawlerPrefix": "https://semantic-ui.com/behaviors/api.html#" }
 { "name": "Mantine React Table", "crawlerStart": "https://www.mantine-react-table.com/docs/getting-started", "crawlerPrefix": "https://www.mantine-react-table.com/docs/" }
-{ "name": "Mantine", "crawlerStart": "https://mantine.dev/pages/getting-started/", "crawlerPrefix": "https://mantine.dev/pages/" }
+{ "name": "Mantine", "crawlerStart": "https://mantine.dev/", "crawlerPrefix": "https://mantine.dev/" }
 { "name": "Blueprint", "crawlerStart": "https://blueprintjs.com/docs/", "crawlerPrefix": "https://blueprintjs.com/docs/" }
 { "name": "NextUI", "crawlerStart": "https://nextui.org/docs", "crawlerPrefix": "https://nextui.org/docs" }
 { "name": "PrimeReact", "crawlerStart": "https://primereact.org/", "crawlerPrefix": "https://primereact.org/" }
