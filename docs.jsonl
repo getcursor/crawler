@@ -383,4 +383,11 @@
 { "name": "TLDraw", "crawlerStart": "https://tldraw.dev/", "crawlerPrefix": "https://tldraw.dev/" }
 { "name": "Swift", "crawlerStart": "https://developer.apple.com/documentation/technologies", "crawlerPrefix": "https://developer.apple.com/documentation/technologies" }
 { "name": "Solidity", "crawlerStart": "https://docs.soliditylang.org/", "crawlerPrefix": "https://docs.soliditylang.org/" }
-{ "name": "Supabase", "crawlerStart": "https://supabase.com/docs", "crawlerPrefix": "https://supabase.com/docs" }
+{ "name": "Supabase JS SDK", "crawlerStart": "https://supabase.com/docs/reference/javascript/start", "crawlerPrefix": "https://supabase.com/docs/reference/javascript/start" }
+{ "name": "Supabase Python SDK", "crawlerStart": "https://supabase.com/docs/reference/python/start", "crawlerPrefix": "https://supabase.com/docs/reference/python/start" }
+{ "name": "Supabase Database docs", "crawlerStart": "https://supabase.com/docs/guides/database/overview", "crawlerPrefix": "https://supabase.com/docs/guides/database/overview" }
+{ "name": "Supabase Auth docs", "crawlerStart": "https://supabase.com/docs/guides/auth", "crawlerPrefix": "https://supabase.com/docs/guides/auth" }
+{ "name": "Supabase Storage docs", "crawlerStart": "https://supabase.com/docs/guides/storage", "crawlerPrefix": "https://supabase.com/docs/guides/storage" }
+{ "name": "Supabase Ai docs", "crawlerStart": "https://supabase.com/docs/guides/ai", "crawlerPrefix": "https://supabase.com/docs/guides/ai" }
+{ "name": "Supabase Realtime docs", "crawlerStart": "https://supabase.com/docs/guides/realtime", "crawlerPrefix": "https://supabase.com/docs/guides/realtime" }
+{ "name": "Supabase EdgeFunction docs", "crawlerStart": "https://supabase.com/docs/guides/functions", "crawlerPrefix": "https://supabase.com/docs/guides/functions" }
