@@ -44,6 +44,7 @@
 { "name": "ggplot2", "crawlerStart": "https://ggplot2.tidyverse.org/reference/", "crawlerPrefix": "https://ggplot2.tidyverse.org/reference/" }
 { "name": "RubyOnRails", "crawlerStart": "https://api.rubyonrails.org/", "crawlerPrefix": "https://api.rubyonrails.org/" }
 { "name": "Spark", "crawlerStart": "https://spark.apache.org/docs/latest/", "crawlerPrefix": "https://spark.apache.org/docs/latest/" }
+{ "name": "Tauri App", "crawlerStart": "https://tauri.app/v1/guides/", "crawlerPrefix": "https://tauri.app/v1/guides/" }
 { "name": "PySpark", "crawlerStart": "https://spark.apache.org/docs/latest/api/python/", "crawlerPrefix": "https://spark.apache.org/docs/latest/api/python/" }
 { "name": "LanguageServerProtocol", "crawlerStart": "https://microsoft.github.io/language-server-protocol/specifications/lsp/3.17/specification/", "crawlerPrefix": "https://microsoft.github.io/language-server-protocol/specifications/lsp/3.17/specification/" }
 { "name": "axios", "crawlerStart": "https://axios-http.com/docs/api_intro", "crawlerPrefix": "https://axios-http.com/docs/api_intro" }
