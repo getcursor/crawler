@@ -20,6 +20,7 @@
 { "name": "Transformers", "crawlerStart": "https://huggingface.co/docs/transformers/", "crawlerPrefix": "https://huggingface.co/docs/transformers/" }
 { "name": "Hugging-Face-Transformers", "crawlerStart": "https://huggingface.co/docs/transformers/", "crawlerPrefix": "https://huggingface.co/docs/transformers/" }
 { "name": "Langchain", "crawlerStart": "https://python.langchain.com/docs/", "crawlerPrefix": "https://python.langchain.com/docs/" }
+{ "name": "LlamaIndex" "crawlerStart": "https://docs.llamaindex.ai/en/stable/", "crawlerPrefix": ""https://docs.llamaindex.ai/en/stable/" }
 { "name": "Vue", "crawlerStart": "https://vuejs.org/guide/", "crawlerPrefix": "https://vuejs.org/guide/" }
 { "name": "Angular", "crawlerStart": "https://angular.io/docs", "crawlerPrefix": "https://angular.io/docs" }
 { "name": "Astro", "crawlerStart": "https://docs.astro.build/en/", "crawlerPrefix": "https://docs.astro.build/en/" }
