@@ -383,3 +383,32 @@
 { "name": "TLDraw", "crawlerStart": "https://tldraw.dev/", "crawlerPrefix": "https://tldraw.dev/" }
 { "name": "Swift", "crawlerStart": "https://developer.apple.com/documentation/technologies", "crawlerPrefix": "https://developer.apple.com/documentation/technologies" }
 { "name": "Solidity", "crawlerStart": "https://docs.soliditylang.org/", "crawlerPrefix": "https://docs.soliditylang.org/" }
+{ "name": "React Native Paper", "crawlerStart": "https://callstack.github.io/react-native-paper/docs/guides/getting-started", "crawlerPrefix": "https://callstack.github.io/react-native-paper/docs/" }
+{ "name": "Bulma", "crawlerStart": "https://bulma.io/documentation/", "crawlerPrefix": "https://bulma.io/documentation/" }
+{ "name": "Foundation", "crawlerStart": "https://get.foundation/sites/docs/", "crawlerPrefix": "https://get.foundation/sites/docs/" }
+{ "name": "UIkit", "crawlerStart": "https://getuikit.com/docs/introduction", "crawlerPrefix": "https://getuikit.com/docs/" }
+{ "name": "Milligram", "crawlerStart": "https://milligram.io/", "crawlerPrefix": "https://milligram.io/" }
+{ "name": "Spectre.css", "crawlerStart": "https://picturepan2.github.io/spectre/getting-started.html", "crawlerPrefix": "https://picturepan2.github.io/spectre/" }
+{ "name": "Shoelace", "crawlerStart": "https://shoelace.style/", "crawlerPrefix": "https://shoelace.style/" }
+{ "name": "Primer", "crawlerStart": "https://primer.style/css/", "crawlerPrefix": "https://primer.style/css/" }
+{ "name": "Tailwind Elements", "crawlerStart": "https://tailwind-elements.com/docs/standard/getting-started/quick-start/", "crawlerPrefix": "https://tailwind-elements.com/docs/" }
+{ "name": "DaisyUI", "crawlerStart": "https://daisyui.com/docs/install/", "crawlerPrefix": "https://daisyui.com/docs/" }
+{ "name": "Headless UI", "crawlerStart": "https://headlessui.com/", "crawlerPrefix": "https://headlessui.com/" }
+{ "name": "Radix UI", "crawlerStart": "https://www.radix-ui.com/docs/primitives/overview/getting-started", "crawlerPrefix": "https://www.radix-ui.com/docs/" }
+{ "name": "Stitches", "crawlerStart": "https://stitches.dev/docs/installation", "crawlerPrefix": "https://stitches.dev/docs/" }
+{ "name": "Framer Motion", "crawlerStart": "https://www.framer.com/motion/", "crawlerPrefix": "https://www.framer.com/motion/" }
+{ "name": "React Spring", "crawlerStart": "https://react-spring.dev/", "crawlerPrefix": "https://react-spring.dev/" }
+{ "name": "Three.js", "crawlerStart": "https://threejs.org/docs/", "crawlerPrefix": "https://threejs.org/docs/" }
+{ "name": "Babylon.js", "crawlerStart": "https://doc.babylonjs.com/", "crawlerPrefix": "https://doc.babylonjs.com/" }
+{ "name": "Anime.js", "crawlerStart": "https://animejs.com/documentation/", "crawlerPrefix": "https://animejs.com/documentation/" }
+{ "name": "GSAP", "crawlerStart": "https://greensock.com/docs/", "crawlerPrefix": "https://greensock.com/docs/" }
+{ "name": "Velocity.js", "crawlerStart": "http://velocityjs.org/", "crawlerPrefix": "http://velocityjs.org/" }
+{ "name": "Popmotion", "crawlerStart": "https://popmotion.io/", "crawlerPrefix": "https://popmotion.io/" }
+{ "name": "Typed.js", "crawlerStart": "https://github.com/mattboldt/typed.js/", "crawlerPrefix": "https://github.com/mattboldt/typed.js/" }
+{ "name": "Howler.js", "crawlerStart": "https://github.com/goldfire/howler.js#documentation", "crawlerPrefix": "https://github.com/goldfire/howler.js#" }
+{ "name": "Tone.js", "crawlerStart": "https://tonejs.github.io/docs/", "crawlerPrefix": "https://tonejs.github.io/docs/" }
+{ "name": "Hammer.js", "crawlerStart": "https://hammerjs.github.io/", "crawlerPrefix": "https://hammerjs.github.io/" }
+{ "name": "Sortable.js", "crawlerStart": "https://github.com/SortableJS/Sortable#usage", "crawlerPrefix": "https://github.com/SortableJS/Sortable#" }
+{ "name": "Cleave.js", "crawlerStart": "https://github.com/nosir/cleave.js/blob/master/doc/options.md", "crawlerPrefix": "https://github.com/nosir/cleave.js/blob/master/doc/" }
+{ "name": "PouchDB", "crawlerStart": "https://pouchdb.com/guides/", "crawlerPrefix": "https://pouchdb.com/guides/" }
+{ "name": "Immer", "crawlerStart": "https://immerjs.github.io/immer/", "crawlerPrefix": "https://immerjs.github.io/immer/" }
