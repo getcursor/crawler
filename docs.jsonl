@@ -383,3 +383,5 @@
 { "name": "TLDraw", "crawlerStart": "https://tldraw.dev/", "crawlerPrefix": "https://tldraw.dev/" }
 { "name": "Swift", "crawlerStart": "https://developer.apple.com/documentation/technologies", "crawlerPrefix": "https://developer.apple.com/documentation/technologies" }
 { "name": "Solidity", "crawlerStart": "https://docs.soliditylang.org/", "crawlerPrefix": "https://docs.soliditylang.org/" }
+{ "name": "data-connect enedis api", "crawlerStart": "https://datahub-enedis.fr/services-api/data-connect/documentation/", "crawlerPrefix": "https://datahub-enedis.fr/services-api/data-connect/documentation/" }
+{ "name": "avalanche.continualai", "crawlerStart": "https://avalanche-api.continualai.org/en/latest/index.html", "crawlerPrefix": "https://avalanche-api.continualai.org/en/latest" }
