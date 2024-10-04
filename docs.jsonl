@@ -418,12 +418,12 @@
 { "name": "Codecov", "crawlerStart": "https://docs.codecov.com/docs/", "crawlerPrefix": "https://docs.codecov.com/docs/" }
 { "name": "KnexJS", "crawlerStart": "https://knexjs.org/guide/", "crawlerPrefix": "https://knexjs.org/guide/" }
 { "name": "Volta", "crawlerStart": "https://docs.volta.sh/", "crawlerPrefix": "https://docs.volta.sh/" }
-{ "name": "Homebrew-file", "crawlerStart": "https://homebrew-file.readthedocs.io/en/latest/index.html", "crawlerPrefix": "https://homebrew-file.readthedocs.io/en/latest/" }
+{ "name": "Homebrew", "crawlerStart": "https://docs.brew.com", "crawlerPrefix": "https://docs.brew.com" }
 { "name": "Remix", "crawlerStart": "https://remix.run/docs/en/main", "crawlerPrefix": "https://remix.run/docs/en/main" }
 { "name": "BabelJS", "crawlerStart": "https://babeljs.io/docs/", "crawlerPrefix": "https://babeljs.io/docs/" }
 { "name": "Azure CLI", "crawlerStart": "https://learn.microsoft.com/en-us/cli/azure/", "crawlerPrefix": "https://learn.microsoft.com/en-us/cli/azure/" }
 { "name": "Sendgrid-API", "crawlerStart": "https://www.twilio.com/docs/sendgrid/api-reference", "crawlerPrefix": "https://www.twilio.com/docs/sendgrid/api-reference" }
-{ "name": "Happy-dom", "crawlerStart": "https://docs.volta.sh/", "crawlerPrefix": "https://docs.volta.sh/" }
+{ "name": "Happy-dom", "crawlerStart": "https://github.com/capricorn86/happy-dom/wiki/", "crawlerPrefix": "https://github.com/capricorn86/happy-dom/wiki/" }
 { "name": "Segment-API", "crawlerStart": "https://segment.com/docs/", "crawlerPrefix": "https://segment.com/docs/" }
 { "name": "Algolia", "crawlerStart": "https://www.algolia.com/doc/", "crawlerPrefix": "https://www.algolia.com/doc/" }
 { "name": "OpenTelemetry", "crawlerStart": "https://opentelemetry.io/docs/", "crawlerPrefix": "https://opentelemetry.io/docs/" }
