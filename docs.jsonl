@@ -418,7 +418,7 @@
 { "name": "Codecov", "crawlerStart": "https://docs.codecov.com/docs/", "crawlerPrefix": "https://docs.codecov.com/docs/" }
 { "name": "KnexJS", "crawlerStart": "https://knexjs.org/guide/", "crawlerPrefix": "https://knexjs.org/guide/" }
 { "name": "Volta", "crawlerStart": "https://docs.volta.sh/", "crawlerPrefix": "https://docs.volta.sh/" }
-{ "name": "Homebrew", "crawlerStart": "https://docs.brew.com", "crawlerPrefix": "https://docs.brew.com" }
+{ "name": "Homebrew", "crawlerStart": "https://docs.brew.sh", "crawlerPrefix": "https://docs.brew.sh" }
 { "name": "Remix", "crawlerStart": "https://remix.run/docs/en/main", "crawlerPrefix": "https://remix.run/docs/en/main" }
 { "name": "BabelJS", "crawlerStart": "https://babeljs.io/docs/", "crawlerPrefix": "https://babeljs.io/docs/" }
 { "name": "Azure CLI", "crawlerStart": "https://learn.microsoft.com/en-us/cli/azure/", "crawlerPrefix": "https://learn.microsoft.com/en-us/cli/azure/" }
