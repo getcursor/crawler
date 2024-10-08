@@ -383,3 +383,6 @@
 { "name": "TLDraw", "crawlerStart": "https://tldraw.dev/", "crawlerPrefix": "https://tldraw.dev/" }
 { "name": "Swift", "crawlerStart": "https://developer.apple.com/documentation/technologies", "crawlerPrefix": "https://developer.apple.com/documentation/technologies" }
 { "name": "Solidity", "crawlerStart": "https://docs.soliditylang.org/", "crawlerPrefix": "https://docs.soliditylang.org/" }
+{ "name": "Clerk", "crawlerStart": "https://clerk.com/docs/", "crawlerPrefix": "https://clerk.com/docs/" }
+{ "name": "shadcn/ui", "crawlerStart": "https://ui.shadcn.com/docs/", "crawlerPrefix": "https://ui.shadcn.com/docs/" }
+{ "name": "Drizzle", "crawlerStart": "https://orm.drizzle.team/docs/overview", "crawlerPrefix": "https://orm.drizzle.team/docs/" }
