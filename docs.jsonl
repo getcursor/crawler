@@ -383,3 +383,5 @@
 { "name": "TLDraw", "crawlerStart": "https://tldraw.dev/", "crawlerPrefix": "https://tldraw.dev/" }
 { "name": "Swift", "crawlerStart": "https://developer.apple.com/documentation/technologies", "crawlerPrefix": "https://developer.apple.com/documentation/technologies" }
 { "name": "Solidity", "crawlerStart": "https://docs.soliditylang.org/", "crawlerPrefix": "https://docs.soliditylang.org/" }
+{ "name": "Clever Cloud CLI", "crawlerStart": "https://github.com/CleverCloud/clever-tools/blob/master/docs/README.md", "crawlerPrefix": "https://github.com/CleverCloud/clever-tools/tree/master/docs" }
+
