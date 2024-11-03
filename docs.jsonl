@@ -71,7 +71,11 @@
 { "name": "Deno API", "crawlerStart": "https://deno.land/api@v1.35.0", "crawlerPrefix": "https://deno.land/api@v1.35.0" }
 { "name": "Deno", "crawlerStart": "https://deno.land/manual@v1.35.0/introduction", "crawlerPrefix": "https://deno.land/manual@v1.35.0/" }
 { "name": "Puppeteer", "crawlerStart": "https://pptr.dev/", "crawlerPrefix": "https://pptr.dev/" }
-{ "name": "Laravel", "crawlerStart": "https://laravel.com/docs/10.x", "crawlerPrefix": "https://laravel.com/docs/10.x" }
+{ "name": "Laravel 10", "crawlerStart": "https://laravel.com/docs/10.x", "crawlerPrefix": "https://laravel.com/docs/10.x" }
+{ "name": "Laravel 11", "crawlerStart": "https://laravel.com/docs/11.x", "crawlerPrefix": "https://laravel.com/docs/11.x" }
+{ "name": "Livewire", "crawlerStart": "https://livewire.laravel.com/docs/", "crawlerPrefix": "https://livewire.laravel.com/docs/" } 
+{ "name": "Pest", "crawlerStart": "https://pestphp.com/docs/", "crawlerPrefix": "https://pestphp.com/docs/" } 
+{ "name": "Filament", "crawlerStart": "https://filamentphp.com/docs", "crawlerPrefix": "https://filamentphp.com/docs" }
 { "name": "FontAwesome", "crawlerStart": "https://fontawesome.com/docs/web/", "crawlerPrefix": "https://fontawesome.com/docs/web/" }
 { "name": "OpenCV", "crawlerStart": "https://docs.opencv.org/4.x/", "crawlerPrefix": "https://docs.opencv.org/4.x/" }
 { "name": "Nginx", "crawlerStart": "http://nginx.org/en/docs/", "crawlerPrefix": "http://nginx.org/en/docs/" }
