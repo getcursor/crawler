@@ -383,3 +383,8 @@
 { "name": "TLDraw", "crawlerStart": "https://tldraw.dev/", "crawlerPrefix": "https://tldraw.dev/" }
 { "name": "Swift", "crawlerStart": "https://developer.apple.com/documentation/technologies", "crawlerPrefix": "https://developer.apple.com/documentation/technologies" }
 { "name": "Solidity", "crawlerStart": "https://docs.soliditylang.org/", "crawlerPrefix": "https://docs.soliditylang.org/" }
+{ "name": "aiohttp", "crawlerStart": "https://docs.aiohttp.org/en/stable/", "crawlerPrefix": "https://docs.aiohttp.org/en/stable/" }
+{ "name": "pydantic", "crawlerStart": "https://docs.pydantic.dev/latest/", "crawlerPrefix": "https://docs.pydantic.dev/latest/" }
+{ "name": "Piccolo", "crawlerStart": "https://piccolo-orm.readthedocs.io/en/latest/", "crawlerPrefix": "https://piccolo-orm.readthedocs.io/en/latest/" }
+{ "name": "Tortoise-ORM", "crawlerStart": "https://tortoise-orm.readthedocs.io/en/latest/", "crawlerPrefix": "https://tortoise-orm.readthedocs.io/en/latest/" }
+
