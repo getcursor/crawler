@@ -383,3 +383,7 @@
 { "name": "TLDraw", "crawlerStart": "https://tldraw.dev/", "crawlerPrefix": "https://tldraw.dev/" }
 { "name": "Swift", "crawlerStart": "https://developer.apple.com/documentation/technologies", "crawlerPrefix": "https://developer.apple.com/documentation/technologies" }
 { "name": "Solidity", "crawlerStart": "https://docs.soliditylang.org/", "crawlerPrefix": "https://docs.soliditylang.org/" }
+{ "name": "Payload-CMS", "crawlerStart": "https://payloadcms.com/docs/getting-started/what-is-payload", "crawlerPrefix": "https://payloadcms.com/docs/getting-started/what-is-payload" }
+{ "name": "Mojo", "crawlerStart": "https://docs.modular.com/mojo/manual/", "crawlerPrefix": "https://docs.modular.com/mojo/manual/" }
+
+
