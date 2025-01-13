@@ -383,3 +383,11 @@
 { "name": "TLDraw", "crawlerStart": "https://tldraw.dev/", "crawlerPrefix": "https://tldraw.dev/" }
 { "name": "Swift", "crawlerStart": "https://developer.apple.com/documentation/technologies", "crawlerPrefix": "https://developer.apple.com/documentation/technologies" }
 { "name": "Solidity", "crawlerStart": "https://docs.soliditylang.org/", "crawlerPrefix": "https://docs.soliditylang.org/" }
+{ "name": "Polars Python API Reference", "crawlerStart": "https://docs.pola.rs/api/python/stable/reference/index.html", "crawlerPrefix": "https://docs.pola.rs/api/python/stable/reference/" }
+{ "name": "Polars User Guide", "crawlerStart": "https://docs.pola.rs", "crawlerPrefix": "https://docs.pola.rs/user-guide/" }
+{ "name": "DuckDB", "crawlerStart": "https://duckdb.org/docs/sitemap", "crawlerPrefix": "https://duckdb.org/docs/" }
+{ "name": "eliot", "crawlerStart": "https://eliot.readthedocs.io/en/stable/", "crawlerPrefix": "https://eliot.readthedocs.io/en/stable/" }
+{ "name": "dulwich", "crawlerStart": "https://www.dulwich.io/docs/genindex.html", "crawlerPrefix": "https://www.dulwich.io/docs/api/" }
+{ "name": "aiohttp", "crawlerStart": "https://docs.aiohttp.org/en/stable/", "crawlerPrefix": "https://docs.aiohttp.org/en/stable/" }
+{ "name": "Dagster", "crawlerStart": "https://docs.dagster.io/", "crawlerPrefix": "https://docs.dagster.io/" }
+{ "name": "Dagster docs-preview", "crawlerStart": "https://docs-preview.dagster.io/", "crawlerPrefix": "https://docs-preview.dagster.io/" }
