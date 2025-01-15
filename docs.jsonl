@@ -383,3 +383,5 @@
 { "name": "TLDraw", "crawlerStart": "https://tldraw.dev/", "crawlerPrefix": "https://tldraw.dev/" }
 { "name": "Swift", "crawlerStart": "https://developer.apple.com/documentation/technologies", "crawlerPrefix": "https://developer.apple.com/documentation/technologies" }
 { "name": "Solidity", "crawlerStart": "https://docs.soliditylang.org/", "crawlerPrefix": "https://docs.soliditylang.org/" }
+{ "name": "Stacks", "crawlerStart": "https://docs.stacks.co/", "crawlerPrefix": "https://docs.stacks.co/" }
+{ "name": "Hiro", "crawlerStart": "https://docs.hiro.so/", "crawlerPrefix": "https://docs.hiro.so/" }
