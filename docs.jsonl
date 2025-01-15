@@ -243,6 +243,7 @@
 { "name": "Chart.js", "crawlerStart": "https://www.chartjs.org/docs/latest/", "crawlerPrefix": "https://www.chartjs.org/docs/latest/" }
 { "name": "FusionCharts", "crawlerStart": "https://www.fusioncharts.com/dev/", "crawlerPrefix": "https://www.fusioncharts.com/dev/" }
 { "name": "Dygraphs", "crawlerStart": "https://dygraphs.com/", "crawlerPrefix": "https://dygraphs.com/" }
+{ "name": "GraphQL", "crawlerStart": "https://spec.graphql.org/", "crawlerPrefix": "https://spec.graphql.org/" }
 { "name": "Victory", "crawlerStart": "https://formidable.com/open-source/victory/docs/", "crawlerPrefix": "https://formidable.com/open-source/victory/" }
 { "name": "Chartist.js", "crawlerStart": "https://gionkunz.github.io/chartist-js/api-documentation.html", "crawlerPrefix": "https://gionkunz.github.io/chartist-js/api-documentation.html" }
 { "name": "Recharts", "crawlerStart": "http://recharts.org/en-US/guide/", "crawlerPrefix": "http://recharts.org/en-US/" }
