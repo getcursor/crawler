@@ -43,6 +43,7 @@
 { "name": "requests", "crawlerStart": "https://requests.readthedocs.io/en/latest/api/", "crawlerPrefix": "https://requests.readthedocs.io/en/latest/api/" }
 { "name": "ggplot2", "crawlerStart": "https://ggplot2.tidyverse.org/reference/", "crawlerPrefix": "https://ggplot2.tidyverse.org/reference/" }
 { "name": "RubyOnRails", "crawlerStart": "https://api.rubyonrails.org/", "crawlerPrefix": "https://api.rubyonrails.org/" }
+{ "name": "Ruby", "crawlerStart": "https://docs.ruby-lang.org/en/master/", "crawlerPrefix": "https://docs.ruby-lang.org/en/" }
 { "name": "Spark", "crawlerStart": "https://spark.apache.org/docs/latest/", "crawlerPrefix": "https://spark.apache.org/docs/latest/" }
 { "name": "PySpark", "crawlerStart": "https://spark.apache.org/docs/latest/api/python/", "crawlerPrefix": "https://spark.apache.org/docs/latest/api/python/" }
 { "name": "LanguageServerProtocol", "crawlerStart": "https://microsoft.github.io/language-server-protocol/specifications/lsp/3.17/specification/", "crawlerPrefix": "https://microsoft.github.io/language-server-protocol/specifications/lsp/3.17/specification/" }
