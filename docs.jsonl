@@ -325,8 +325,7 @@
 { "name": "WordPress.com", "crawlerStart": "https://developer.wordpress.com/docs/", "crawlerPrefix": "https://developer.wordpress.com/docs/" }
 { "name": "WordPress.org", "crawlerStart": "https://developer.wordpress.org/", "crawlerPrefix": "https://developer.wordpress.org/" }
 { "name": "Swiper", "crawlerStart": "https://swiperjs.com/get-started", "crawlerPrefix": "https://swiperjs.com/swiper-api" }
-{ "name": "Flickity", "crawlerStart": "https://flickity.metafizzy.co/", "crawlerPrefix": "https://flickity.metafizzy.co/" }
-{ "name": "Glide.js", "crawlerStart": "https://glidejs.com/docs/", "crawlerPrefix": "https://glidejs.com/" }
+g{ "name": "Glide.js", "crawlerStart": "https://glidejs.com/docs/", "crawlerPrefix": "https://glidejs.com/" }
 { "name": "Owl Carousel", "crawlerStart": "https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html", "crawlerPrefix": "https://owlcarousel2.github.io/OwlCarousel2/docs/" }
 { "name": "Slick", "crawlerStart": "https://kenwheeler.github.io/slick/", "crawlerPrefix": "https://kenwheeler.github.io/slick/" }
 { "name": "Docker", "crawlerStart": "https://docs.docker.com/", "crawlerPrefix": "https://docs.docker.com/" }
@@ -384,4 +383,5 @@
 { "name": "TLDraw", "crawlerStart": "https://tldraw.dev/", "crawlerPrefix": "https://tldraw.dev/" }
 { "name": "Swift", "crawlerStart": "https://developer.apple.com/documentation/technologies", "crawlerPrefix": "https://developer.apple.com/documentation/technologies" }
 { "name": "Solidity", "crawlerStart": "https://docs.soliditylang.org/", "crawlerPrefix": "https://docs.soliditylang.org/" },
-{ "name": "VueUse", "crawlerStart": "https://vueuse.org/", "crawlerPrefix": "https://vueuse.org/" }
+{ "name": "VueUse", "crawlerStart": "https://vueuse.org/", "crawlerPrefix": "https://vueuse.org/" },
+{ "name": "Reflex", "crawlerStart": "https://reflex.dev/docs/", "crawlerPrefix": "https://reflex.dev/" }
