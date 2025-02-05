@@ -385,3 +385,7 @@
 { "name": "Swift", "crawlerStart": "https://developer.apple.com/documentation/technologies", "crawlerPrefix": "https://developer.apple.com/documentation/technologies" }
 { "name": "Solidity", "crawlerStart": "https://docs.soliditylang.org/", "crawlerPrefix": "https://docs.soliditylang.org/" },
 { "name": "VueUse", "crawlerStart": "https://vueuse.org/", "crawlerPrefix": "https://vueuse.org/" }
+{ "name": "tinygrad", "crawlerStart": "https://docs.tinygrad.org", "crawlerPrefix": "https://docs.tinygrad.org" }
+{ "name": "MLX", "crawlerStart": "https://ml-explore.github.io/mlx/build/html/index.html", "crawlerPrefix": "https://ml-explore.github.io/mlx/build/html/index.html" }
+{ "name": "JAX", "crawlerStart": "https://jax.readthedocs.io/en/latest/", "crawlerPrefix": "https://jax.readthedocs.io/" }
+{ "name": "CUDA", "crawlerStart": "https://docs.nvidia.com/cuda/", "crawlerPrefix": "https://docs.nvidia.com/cuda/" }
