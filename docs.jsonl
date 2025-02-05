@@ -385,3 +385,4 @@
 { "name": "Swift", "crawlerStart": "https://developer.apple.com/documentation/technologies", "crawlerPrefix": "https://developer.apple.com/documentation/technologies" }
 { "name": "Solidity", "crawlerStart": "https://docs.soliditylang.org/", "crawlerPrefix": "https://docs.soliditylang.org/" },
 { "name": "VueUse", "crawlerStart": "https://vueuse.org/", "crawlerPrefix": "https://vueuse.org/" }
+{ "name": "PicoCSS", "crawlerStart": "https://picocss.com/docs/", "crawlerPrefix": "https://picocss.com/docs/" }
