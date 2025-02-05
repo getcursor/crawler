@@ -383,7 +383,7 @@
 { "name": "Amber", "crawlerStart": "https://docs.amberframework.org/amber", "crawlerPrefix": "https://docs.amberframework.org/amber" }
 { "name": "TLDraw", "crawlerStart": "https://tldraw.dev/", "crawlerPrefix": "https://tldraw.dev/" }
 { "name": "Swift", "crawlerStart": "https://developer.apple.com/documentation/technologies", "crawlerPrefix": "https://developer.apple.com/documentation/technologies" }
-{ "name": "Solidity", "crawlerStart": "https://docs.soliditylang.org/", "crawlerPrefix": "https://docs.soliditylang.org/" },
+{ "name": "Solidity", "crawlerStart": "https://docs.soliditylang.org/", "crawlerPrefix": "https://docs.soliditylang.org/" }
 { "name": "VueUse", "crawlerStart": "https://vueuse.org/", "crawlerPrefix": "https://vueuse.org/" }
 { "name": "tinygrad", "crawlerStart": "https://docs.tinygrad.org", "crawlerPrefix": "https://docs.tinygrad.org" }
 { "name": "MLX", "crawlerStart": "https://ml-explore.github.io/mlx/build/html/index.html", "crawlerPrefix": "https://ml-explore.github.io/mlx/build/html/index.html" }
