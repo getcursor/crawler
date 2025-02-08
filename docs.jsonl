@@ -84,8 +84,6 @@
 { "name": "Deno", "crawlerStart": "https://deno.land/manual@v1.35.0/introduction", "crawlerPrefix": "https://deno.land/manual@v1.35.0/" }
 { "name": "Detox Android", "crawlerStart": "https://wix.github.io/Detox/docs/introduction/getting-started/", "crawlerPrefix": "https://wix.github.io/Detox/docs/" }
 { "name": "Devise", "crawlerStart": "https://github.com/heartcombo/devise", "crawlerPrefix": "https://github.com/heartcombo/devise" }
-{ "name": "Django", "crawlerStart": "https://docs.djangoproject.com/4.2/", "crawlerPrefix": "https://docs.djangoproject.com/en/4.2/" }
-{ "name": "django", "crawlerStart": "https://docs.djangoproject.com/en/4.1/", "crawlerPrefix": "https://docs.djangoproject.com/en/4.2/" }
 { "name": "Django", "crawlerStart": "https://docs.djangoproject.com/en/4.2/", "crawlerPrefix": "https://docs.djangoproject.com/en/4.2/" }
 { "name": "Docker", "crawlerStart": "https://docs.docker.com/", "crawlerPrefix": "https://docs.docker.com/" }
 { "name": "Domo", "crawlerStart": "https://developer.domo.com/", "crawlerPrefix": "https://developer.domo.com/" }
@@ -328,7 +326,6 @@
 { "name": "Spacy", "crawlerStart": "https://spacy.io/api", "crawlerPrefix": "https://spacy.io/api" }
 { "name": "Spark", "crawlerStart": "https://spark.apache.org/docs/latest/", "crawlerPrefix": "https://spark.apache.org/docs/latest/" }
 { "name": "spdlog", "crawlerStart": "https://github.com/gabime/spdlog/blob/v2.x/README.md", "crawlerPrefix": "https://github.com/gabime/spdlog/blob/v2.x/" }
-{ "name": "SpecFlow", "crawlerStart": "https://docs.specflow.org/en/", "crawlerPrefix": "https://docs.specflow.org/projects/" }
 { "name": "SpecFlow", "crawlerStart": "https://docs.specflow.org/en/latest/", "crawlerPrefix": "https://docs.specflow.org/projects/" }
 { "name": "Splunk", "crawlerStart": "https://docs.splunk.com/Documentation", "crawlerPrefix": "https://docs.splunk.com/Documentation" }
 { "name": "Spring Boot", "crawlerStart": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/", "crawlerPrefix": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" }
