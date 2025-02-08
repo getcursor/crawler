@@ -85,6 +85,7 @@
 { "name": "Detox Android", "crawlerStart": "https://wix.github.io/Detox/docs/introduction/getting-started/", "crawlerPrefix": "https://wix.github.io/Detox/docs/" }
 { "name": "Devise", "crawlerStart": "https://github.com/heartcombo/devise", "crawlerPrefix": "https://github.com/heartcombo/devise" }
 { "name": "Django", "crawlerStart": "https://docs.djangoproject.com/4.2/", "crawlerPrefix": "https://docs.djangoproject.com/en/4.2/" }
+{ "name": "django", "crawlerStart": "https://docs.djangoproject.com/en/4.1/", "crawlerPrefix": "https://docs.djangoproject.com/en/4.2/" }
 { "name": "Django", "crawlerStart": "https://docs.djangoproject.com/en/4.2/", "crawlerPrefix": "https://docs.djangoproject.com/en/4.2/" }
 { "name": "Docker", "crawlerStart": "https://docs.docker.com/", "crawlerPrefix": "https://docs.docker.com/" }
 { "name": "Domo", "crawlerStart": "https://developer.domo.com/", "crawlerPrefix": "https://developer.domo.com/" }
