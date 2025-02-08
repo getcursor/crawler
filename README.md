@@ -16,7 +16,7 @@ Simply add a row to [`docs.jsonl`](docs.jsonl) and submit a PR. Please include t
 
 To enable local git hooks:
 ```bash
-git config core.hooksPath .github/hooks
+git config --local core.hooksPath .github/hooks
 ```
 This will automatically check for duplicate URLs and names before each commit, remove any duplicate URL's. All duplicate Names and URL's will be reported to STDERR. The commit will still be accepted.
 
