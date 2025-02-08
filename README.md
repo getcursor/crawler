@@ -19,3 +19,5 @@ Once accepted, we'll crawl your documentation and make it available to all users
 In Cursor, you can show GPT-4 project documentation to improve it's answers with @ commands like @Langchain and @Tokio. You can also spawn our crawler to add your own documentation by typing "@Add" in chat.
 
 This repo is the list of documentation that's available for all users of Cursor with no "@Add" command required.
+
+![Pre-commit Checks](https://github.com/getcursor/docs/actions/workflows/pre-commit.yml/badge.svg)

@@ -1,0 +1,27 @@
+name: Pre-commit Checks
+
+on:
+  pull_request:
+    paths:
+      - "**.jsonl"
+  push:
+    branches: [main, master]
+    paths:
+      - "**.jsonl"
+
+jobs:
+  check-jsonl:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Make script executable
+        run: |
+          git update-index --chmod=+x .github/scripts/dedupe_url_and_check_duplicate_names.sh
+          chmod +x .github/scripts/dedupe_url_and_check_duplicate_names.sh
+
+      - name: Run JSONL checks
+        run: .github/scripts/dedupe_url_and_check_duplicate_names.sh || true
