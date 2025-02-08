@@ -16,8 +16,14 @@ Simply add a row to [`docs.jsonl`](docs.jsonl) and submit a PR. Please include t
 
 To enable local git hooks:
 ```bash
+# Make the hook executable
+chmod +x .github/hooks/pre-commit
+# Ensure git tracks the executable bit
+git update-index --chmod=+x .github/hooks/pre-commit
+# Configure git to use the hooks directory
 git config --local core.hooksPath .github/hooks
 ```
+
 This will automatically check for duplicate URLs and names before each commit, remove any duplicate URL's. All duplicate Names and URL's will be reported to STDERR. The commit will still be accepted.
 
 Once accepted, we'll crawl your documentation and make it available to all users of Cursor. Anyone will be able to reference the project with a simple '@ProjectName' command.
@@ -28,4 +34,4 @@ In Cursor, you can show GPT-4 project documentation to improve it's answers with
 
 This repo is the list of documentation that's available for all users of Cursor with no "@Add" command required.
 
-![Pre-commit Checks](https://github.com/getcursor/docs/actions/workflows/pre-commit.yml/badge.svg)
+[![Pre-commit Checks](../../actions/workflows/pre-commit.yml/badge.svg)](../../actions/workflows/pre-commit.yml)
