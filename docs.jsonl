@@ -8,7 +8,6 @@
 { "name": "AmCharts", "crawlerStart": "https://www.amcharts.com/docs/v5/", "crawlerPrefix": "https://www.amcharts.com/docs/v5/" }
 { "name": "Angular", "crawlerStart": "https://angular.io/docs", "crawlerPrefix": "https://angular.io/docs" }
 { "name": "AngularJS", "crawlerStart": "https://docs.angularjs.org/guide/", "crawlerPrefix": "https://docs.angularjs.org/guide/" }
-{ "name": "SpecFlow", "crawlerStart": "https://docs.specflow.org/en/", "crawlerPrefix": "https://docs.specflow.org/projects/" }
 { "name": "Ansible", "crawlerStart": "https://docs.ansible.com/ansible/latest/index.html", "crawlerPrefix": "https://docs.ansible.com/ansible/latest/" }
 { "name": "Ant Design", "crawlerStart": "https://ant.design/docs/react/introduce", "crawlerPrefix": "https://ant.design/docs/react/" }
 { "name": "Anti-Design Vue", "crawlerStart": "https://antdv.com/components/overview/", "crawlerPrefix": "https://antdv.com/components/" }
@@ -17,7 +16,6 @@
 { "name": "Apache JMeter", "crawlerStart": "https://jmeter.apache.org/usermanual/index.html", "crawlerPrefix": "https://jmeter.apache.org/usermanual/" }
 { "name": "Apache POI", "crawlerStart": "https://poi.apache.org/apidocs/dev/index.html", "crawlerPrefix": "https://poi.apache.org/apidocs/dev/index.html" }
 { "name": "Apache Struts", "crawlerStart": "https://struts.apache.org/getting-started/", "crawlerPrefix": "https://struts.apache.org/" }
-{ "name": "ApexCharts.js", "crawlerStart": "https://apexcharts.com/docs/installation/", "crawlerPrefix": "https://apexcharts.com/docs/" }
 { "name": "ApexCharts.js", "crawlerStart": "https://apexcharts.com/docs/installation/", "crawlerPrefix": "https://apexcharts.com/docs/" }
 { "name": "Appium", "crawlerStart": "http://appium.io/docs/en/2.0/", "crawlerPrefix": "http://appium.io/docs/en/2.0/" }
 { "name": "ASP.NET", "crawlerStart": "https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0", "crawlerPrefix": "https://learn.microsoft.com/en-us/aspnet/core/" }
@@ -86,7 +84,7 @@
 { "name": "Deno", "crawlerStart": "https://deno.land/manual@v1.35.0/introduction", "crawlerPrefix": "https://deno.land/manual@v1.35.0/" }
 { "name": "Detox Android", "crawlerStart": "https://wix.github.io/Detox/docs/introduction/getting-started/", "crawlerPrefix": "https://wix.github.io/Detox/docs/" }
 { "name": "Devise", "crawlerStart": "https://github.com/heartcombo/devise", "crawlerPrefix": "https://github.com/heartcombo/devise" }
-{ "name": "django", "crawlerStart": "https://docs.djangoproject.com/en/4.2/", "crawlerPrefix": "https://docs.djangoproject.com/en/4.2/" }
+{ "name": "Django", "crawlerStart": "https://docs.djangoproject.com/en/4.2/", "crawlerPrefix": "https://docs.djangoproject.com/en/4.2/" }
 { "name": "Docker", "crawlerStart": "https://docs.docker.com/", "crawlerPrefix": "https://docs.docker.com/" }
 { "name": "Domo", "crawlerStart": "https://developer.domo.com/", "crawlerPrefix": "https://developer.domo.com/" }
 { "name": "Dotdigital", "crawlerStart": "https://developer.dotdigital.com/docs", "crawlerPrefix": "https://developer.dotdigital.com/docs" }
@@ -96,7 +94,6 @@
 { "name": "Dygraphs", "crawlerStart": "https://dygraphs.com/", "crawlerPrefix": "https://dygraphs.com/" }
 { "name": "EarlGrey", "crawlerStart": "https://google.github.io/EarlGrey/", "crawlerPrefix": "https://google.github.io/EarlGrey/" }
 { "name": "Echo", "crawlerStart": "https://echo.labstack.com/docs", "crawlerPrefix": "https://echo.labstack.com/docs" }
-{ "name": "ApexCharts.js", "crawlerStart": "https://apexcharts.com/docs/installation/", "crawlerPrefix": "https://apexcharts.com/docs/" }
 { "name": "Eigen", "crawlerStart": "https://eigen.tuxfamily.org/dox/", "crawlerPrefix": "https://eigen.tuxfamily.org/dox/" }
 { "name": "Elasticsearch", "crawlerStart": "https://www.elastic.co/guide/en/enterprise-search/current/index.html", "crawlerPrefix": "https://www.elastic.co/guide/en/enterprise-search/current/" }
 { "name": "Electron", "crawlerStart": "https://www.electronjs.org/docs/latest/", "crawlerPrefix": "https://www.electronjs.org/docs/latest/" }
@@ -166,7 +163,6 @@
 { "name": "JBehave", "crawlerStart": "http://jbehave.org/reference/stable/", "crawlerPrefix": "http://jbehave.org/reference/stable/" }
 { "name": "Jenkins", "crawlerStart": "https://www.jenkins.io/doc/", "crawlerPrefix": "https://www.jenkins.io/doc/" }
 { "name": "Jest", "crawlerStart": "https://jestjs.io/docs/getting-started", "crawlerPrefix": "https://jestjs.io/docs/getting-started" }
-{ "name": "Django", "crawlerStart": "https://docs.djangoproject.com/en/4.2/", "crawlerPrefix": "https://docs.djangoproject.com/en/4.2/" }
 { "name": "JHipster", "crawlerStart": "https://www.jhipster.tech/development/", "crawlerPrefix": "https://www.jhipster.tech/" }
 { "name": "Jimp", "crawlerStart": "https://www.npmjs.com/package/jimp", "crawlerPrefix": "https://www.npmjs.com/package/jimp" }
 { "name": "Jquery", "crawlerStart": "https://api.jqueryui.com/1.12/", "crawlerPrefix": "https://api.jqueryui.com/1.12/" }
@@ -235,7 +231,6 @@
 { "name": "Novu", "crawlerStart": "https://docs.novu.co/", "crawlerPrefix": "https://docs.novu.co/" }
 { "name": "NumPy", "crawlerStart": "https://numpy.org/doc/stable/", "crawlerPrefix": "https://numpy.org/doc/stable/" }
 { "name": "NUnit", "crawlerStart": "https://docs.nunit.org/", "crawlerPrefix": "https://docs.nunit.org/articles/" }
-{ "name": "Dailyco", "crawlerStart": "https://docs.daily.co/", "crawlerPrefix": "https://docs.daily.co/" }
 { "name": "Nuxt", "crawlerStart": "https://nuxt.com/docs", "crawlerPrefix": "https://nuxt.com/docs" }
 { "name": "NVD3", "crawlerStart": "http://nvd3.org/examples/index.html", "crawlerPrefix": "http://nvd3.org/examples/" }
 { "name": "Office Addin", "crawlerStart": "https://learn.microsoft.com/en-us/office/dev/add-ins/", "crawlerPrefix": "https://learn.microsoft.com/en-us/office/dev/add-ins/" }
@@ -247,12 +242,10 @@
 { "name": "Owl Carousel", "crawlerStart": "https://owlcarousel2.github.io/OwlCarousel2/docs/started-welcome.html", "crawlerPrefix": "https://owlcarousel2.github.io/OwlCarousel2/docs/" }
 { "name": "Pandas", "crawlerStart": "https://pandas.pydata.org/docs/", "crawlerPrefix": "https://pandas.pydata.org/docs/" }
 { "name": "Passport", "crawlerStart": "http://www.passportjs.org/docs/", "crawlerPrefix": "http://www.passportjs.org/" }
-{ "name": "Django", "crawlerStart": "https://docs.djangoproject.com/en/4.2/", "crawlerPrefix": "https://docs.djangoproject.com/en/4.2/" }
 { "name": "Paypal", "crawlerStart": "https://developer.paypal.com/docs/", "crawlerPrefix": "https://developer.paypal.com/docs/" }
 { "name": "Phalcon", "crawlerStart": "https://docs.phalcon.io/5.0/en/introduction", "crawlerPrefix": "https://docs.phalcon.io/5.0/en/" }
 { "name": "Phaser", "crawlerStart": "https://newdocs.phaser.io/docs/3.60.0", "crawlerPrefix": "https://newdocs.phaser.io/docs/3.60.0" }
 { "name": "Phoenix", "crawlerStart": "https://hexdocs.pm/phoenix/", "crawlerPrefix": "https://hexdocs.pm/phoenix/" }
-{ "name": "django", "crawlerStart": "https://docs.djangoproject.com/en/4.2/", "crawlerPrefix": "https://docs.djangoproject.com/en/4.2/" }
 { "name": "PHP", "crawlerStart": "https://www.php.net/manual/en/", "crawlerPrefix": "https://www.php.net/manual/en/" }
 { "name": "PHPixie", "crawlerStart": "https://phpixie.com/docs.html/", "crawlerPrefix": "https://phpixie.com/" }
 { "name": "PHPUnit", "crawlerStart": "https://docs.phpunit.de/en/10.2/", "crawlerPrefix": "https://docs.phpunit.de/en/10.2/" }
@@ -315,7 +308,6 @@
 { "name": "selenium-python", "crawlerStart": "https://selenium-python.readthedocs.io/", "crawlerPrefix": "https://selenium-python.readthedocs.io/" }
 { "name": "Semantic UI", "crawlerStart": "https://semantic-ui.com/behaviors/api.html", "crawlerPrefix": "https://semantic-ui.com/behaviors/api.html#" }
 { "name": "Sentry-Python", "crawlerStart": "https://docs.sentry.io/platforms/python/", "crawlerPrefix": "https://docs.sentry.io/platforms/python/" }
-{ "name": "Dailyco", "crawlerStart": "https://docs.daily.co/", "crawlerPrefix": "https://docs.daily.co/" }
 { "name": "Sequelize", "crawlerStart": "https://sequelize.org/docs/v6/", "crawlerPrefix": "https://sequelize.org/docs/v6/" }
 { "name": "Serenity", "crawlerStart": "https://serenity-bdd.github.io/", "crawlerPrefix": "https://serenity-bdd.github.io/docs/" }
 { "name": "Serilog", "crawlerStart": "https://github.com/serilog/serilog/wiki/", "crawlerPrefix": "https://github.com/serilog/serilog/wiki/" }
@@ -334,6 +326,7 @@
 { "name": "Spacy", "crawlerStart": "https://spacy.io/api", "crawlerPrefix": "https://spacy.io/api" }
 { "name": "Spark", "crawlerStart": "https://spark.apache.org/docs/latest/", "crawlerPrefix": "https://spark.apache.org/docs/latest/" }
 { "name": "spdlog", "crawlerStart": "https://github.com/gabime/spdlog/blob/v2.x/README.md", "crawlerPrefix": "https://github.com/gabime/spdlog/blob/v2.x/" }
+{ "name": "SpecFlow", "crawlerStart": "https://docs.specflow.org/en/", "crawlerPrefix": "https://docs.specflow.org/projects/" }
 { "name": "SpecFlow", "crawlerStart": "https://docs.specflow.org/en/latest/", "crawlerPrefix": "https://docs.specflow.org/projects/" }
 { "name": "Splunk", "crawlerStart": "https://docs.splunk.com/Documentation", "crawlerPrefix": "https://docs.splunk.com/Documentation" }
 { "name": "Spring Boot", "crawlerStart": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/", "crawlerPrefix": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/" }

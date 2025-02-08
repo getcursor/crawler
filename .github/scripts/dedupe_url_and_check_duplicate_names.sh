@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# Store original file hash
+original_hash=$(md5sum docs.jsonl)
+
 sort -f -t'"' -k4 docs.jsonl | \
 awk -F'"' '{
     # Normalize the case of the URL and the Name
@@ -17,3 +21,9 @@ awk -F'"' '{
     if (++countField4[f4_lower] == 2)
         print "Duplicate in Name: " $4 > "/dev/stderr"
 }' > tmpfile; mv tmpfile docs.jsonl
+
+# Check if file was modified
+new_hash=$(md5sum docs.jsonl)
+if [ "$original_hash" != "$new_hash" ]; then
+    git add docs.jsonl
+fi
