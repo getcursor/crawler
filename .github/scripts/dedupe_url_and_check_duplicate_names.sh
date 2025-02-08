@@ -1,5 +1,4 @@
-/bin/bash
-
+#!/bin/bash
 sort -f -t'"' -k4 docs.jsonl | \
 awk -F'"' '{
     # Normalize the case of the URL and the Name

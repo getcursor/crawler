@@ -3,8 +3,8 @@ repos:
     hooks:
       - id: dedupe-url-and-check-duplicate-names
         name: Dedupe URL and check duplicate Names
-        entry: bash .github/scripts/dedupe_url_and_check_duplicate_names.sh
-        language: system
+        entry: .github/scripts/dedupe_url_and_check_duplicate_names.sh
+        language: script
         types: [jsonl]
         stages: [commit]
         verbose: true
