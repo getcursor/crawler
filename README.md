@@ -12,6 +12,14 @@ The docs that [Cursor](https://cursor.com/) can see out-of-the-box.
 
 Simply add a row to [`docs.jsonl`](docs.jsonl) and submit a PR. Please include the project's name, a url for our crawler to start at, and a prefix url that all crawleded urls should be children of.
 
+### Development Setup
+
+To enable local git hooks:
+```bash
+git config core.hooksPath .github/hooks
+```
+This will automatically check for duplicate URLs and names before each commit, remove any duplicate URL's. All duplicate Names and URL's will be reported to STDERR. The commit will still be accepted.
+
 Once accepted, we'll crawl your documentation and make it available to all users of Cursor. Anyone will be able to reference the project with a simple '@ProjectName' command.
 
 ### What is this repo?

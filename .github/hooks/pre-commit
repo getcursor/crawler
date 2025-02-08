@@ -1,0 +1,2 @@
+#!/bin/bash
+exec bash .github/scripts/dedupe_url_and_check_duplicate_names.sh 
