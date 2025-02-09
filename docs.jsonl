@@ -390,7 +390,6 @@
 { "name": "dulwich", "crawlerStart": "https://www.dulwich.io/docs/genindex.html", "crawlerPrefix": "https://www.dulwich.io/docs/api/" }
 { "name": "aiohttp", "crawlerStart": "https://docs.aiohttp.org/en/stable/", "crawlerPrefix": "https://docs.aiohttp.org/en/stable/" }
 { "name": "Dagster", "crawlerStart": "https://docs.dagster.io/", "crawlerPrefix": "https://docs.dagster.io/" }
-{ "name": "Dagster docs-preview", "crawlerStart": "https://docs-preview.dagster.io/", "crawlerPrefix": "https://docs-preview.dagster.io/" }
 { "name": "Marimo User Guide", "crawlerStart": "https://docs.marimo.io/guides/", "crawlerPrefix": "https://docs.marimo.io/guides/" }
 { "name": "Marimo API", "crawlerStart": "https://docs.marimo.io/api/", "crawlerPrefix": "https://docs.marimo.io/api/" }
 { "name": "Marimo CLI", "crawlerStart": "https://docs.marimo.io/cli/", "crawlerPrefix": "https://docs.marimo.io/cli/" }
