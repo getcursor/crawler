@@ -384,4 +384,6 @@
 { "name": "TLDraw", "crawlerStart": "https://tldraw.dev/", "crawlerPrefix": "https://tldraw.dev/" }
 { "name": "Swift", "crawlerStart": "https://developer.apple.com/documentation/technologies", "crawlerPrefix": "https://developer.apple.com/documentation/technologies" }
 { "name": "Solidity", "crawlerStart": "https://docs.soliditylang.org/", "crawlerPrefix": "https://docs.soliditylang.org/" },
+{ "name": "Godot Stable", "crawlerStart": "https://docs.godotengine.org/en/stable/", "crawlerPrefix": "https://docs.godotengine.org/en/stable/" },
+{ "name": "Godot 3.6", "crawlerStart": "https://docs.godotengine.org/en/3.6/", "crawlerPrefix": "https://docs.godotengine.org/en/3.6/" },
 { "name": "VueUse", "crawlerStart": "https://vueuse.org/", "crawlerPrefix": "https://vueuse.org/" }
