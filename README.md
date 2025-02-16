@@ -10,7 +10,9 @@ This repository contains the official list of built-in documentation sources ava
 
 ## What is this?
 
-When using Cursor, you can reference documentation for libraries, frameworks, and languages using the `@docs` functionality. For example, typing `@React` will provide context about React's documentation.
+When using Cursor, you can reference documentation for libraries, frameworks, and languages using the `@docs` functionality. For example, typing `@React` will provide context about React's documentation. 
+
+Documentation is automatically updated in the editor every week, on Sunday.
 
 While you can add custom documentation sources to your local Cursor installation, this repository controls what documentation is available out-of-the-box for all users.
 
