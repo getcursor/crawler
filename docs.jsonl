@@ -79,7 +79,7 @@
 {  "name": "Matplotlib",  "crawlerStart": "https://matplotlib.org/stable/api/",  "crawlerPrefix": "https://matplotlib.org/stable/api/"}
 {  "name": "Maven",  "crawlerStart": "https://maven.apache.org/guides/",  "crawlerPrefix": "https://maven.apache.org/guides/"}
 {  "name": "Microsoft Teams",  "crawlerStart": "https://learn.microsoft.com/en-us/microsoftteams/platform/",  "crawlerPrefix": "https://learn.microsoft.com/en-us/microsoftteams/platform/"}
-{ "name": "MLX", "crawlerStart": "https://github.com/ml-explore/mlx", "crawlerPrefix": "https://github.com/ml-explore/mlx" }
+{ "name": "MLX", "crawlerStart": "https://ml-explore.github.io/mlx/build/html/index.html", "crawlerPrefix": "hhttps://ml-explore.github.io/mlx/build/html/index.html" }
 {  "name": "Mockito",  "crawlerStart": "https://javadoc.io/doc/org.mockito/mockito-core/latest/index.html",  "crawlerPrefix": "https://javadoc.io/doc/org.mockito/mockito-core/latest/"}
 {  "name": "MongoDB",  "crawlerStart": "https://www.mongodb.com/docs/manual/",  "crawlerPrefix": "https://www.mongodb.com/docs/manual/"}
 {  "name": "MySQL",  "crawlerStart": "https://dev.mysql.com/doc/",  "crawlerPrefix": "https://dev.mysql.com/doc/"}
