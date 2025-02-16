@@ -14,6 +14,23 @@ When using Cursor, you can reference documentation for libraries, frameworks, an
 
 While you can add custom documentation sources to your local Cursor installation, this repository controls what documentation is available out-of-the-box for all users.
 
+## What Qualifies for Built-in Docs?
+
+We aim to include documentation for tools and technologies that are:
+
+1. **Widely Used**: Technologies with significant adoption in the developer community (e.g. React, Python, AWS services)
+2. **Well-Documented**: Sources must have comprehensive, maintained documentation with a stable URL structure
+3. **Developer-Focused**: Tools and frameworks used directly by developers in their workflow
+4. **Production-Ready**: No beta/alpha versions or experimental tools
+5. **English Language**: Documentation must be primarily in English
+
+Some examples that would NOT qualify:
+- Personal project documentation
+- Company-specific internal tools
+- Outdated or unmaintained projects
+- Documentation that requires authentication
+- Unofficial documentation sources
+
 ## Contributing
 
 We welcome contributions to expand our built-in documentation! Here's how to add a new source:
