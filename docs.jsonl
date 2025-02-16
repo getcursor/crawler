@@ -132,3 +132,4 @@
 {  "name": "Vue",  "crawlerStart": "https://vuejs.org/guide/introduction.html",  "crawlerPrefix": "https://vuejs.org/guide/"}
 {  "name": "Webpack",  "crawlerStart": "https://webpack.js.org/concepts/",  "crawlerPrefix": "https://webpack.js.org/concepts/"}
 {  "name": "Zsh",  "crawlerStart": "https://zsh.sourceforge.io/Doc/",  "crawlerPrefix": "https://zsh.sourceforge.io/Doc/"}
+{  "name": "Django Rest Framework", "crawlerStart": "https://www.django-rest-framework.org/api-guide", "crawlerPrefix": "https://www.django-rest-framework.org/api-guide"}
