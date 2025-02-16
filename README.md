@@ -23,6 +23,7 @@ We aim to include documentation for tools and technologies that are:
 3. **Developer-Focused**: Tools and frameworks used directly by developers in their workflow
 4. **Production-Ready**: No beta/alpha versions or experimental tools
 5. **English Language**: Documentation must be primarily in English
+6. **Latest Versions**: Only the most recent stable version of libraries will be included, with rare exceptions for widely-used legacy versions (e.g. Python 2)
 
 Some examples that would NOT qualify:
 - Personal project documentation
@@ -33,7 +34,9 @@ Some examples that would NOT qualify:
 
 ## Contributing
 
-We welcome contributions to expand our built-in documentation! Here's how to add a new source:
+We welcome contributions to expand our built-in documentation or fix issues with existing sources! 
+
+To add a new documentation source:
 
 1. Add a single new entry to [`docs.jsonl`](docs.jsonl) with:
    - Project name
@@ -41,10 +44,10 @@ We welcome contributions to expand our built-in documentation! Here's how to add
    - Prefix URL that all crawled pages should be under
 2. Run `./scripts/reorder.sh` to sort the entries
 3. Submit a PR with:
-   - Only ONE new documentation source
-   - A comment explaining what documentation you're adding and why
+   - Only ONE new documentation source (for additions)
+   - A comment explaining what you're adding/fixing and why
    - Confirmation that you've run the reorder script
 
-**Note:** PRs with multiple documentation additions will be closed. Please submit separate PRs for each source.
+**Note:** When adding new sources, PRs with multiple documentation additions will be closed. Please submit separate PRs for each new source. PRs fixing existing documentation sources can include multiple fixes.
 
 Once approved, we'll crawl the documentation and make it available to all Cursor users via the `@ProjectName` command.
