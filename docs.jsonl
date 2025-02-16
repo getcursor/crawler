@@ -83,6 +83,7 @@
 {  "name": "MongoDB",  "crawlerStart": "https://www.mongodb.com/docs/manual/",  "crawlerPrefix": "https://www.mongodb.com/docs/manual/"}
 {  "name": "MySQL",  "crawlerStart": "https://dev.mysql.com/doc/",  "crawlerPrefix": "https://dev.mysql.com/doc/"}
 {  "name": "NLTK",  "crawlerStart": "https://www.nltk.org/",  "crawlerPrefix": "https://www.nltk.org/"}
+{  "name": "Neo4j",  "crawlerStart": "https://neo4j.com/docs/",  "crawlerPrefix": "https://neo4j.com/docs/"}
 {  "name": "NestJS",  "crawlerStart": "https://docs.nestjs.com/",  "crawlerPrefix": "https://docs.nestjs.com/"}
 {  "name": "Netlify",  "crawlerStart": "https://docs.netlify.com/",  "crawlerPrefix": "https://docs.netlify.com/"}
 {  "name": "NextJS",  "crawlerStart": "https://nextjs.org/docs",  "crawlerPrefix": "https://nextjs.org/docs"}
