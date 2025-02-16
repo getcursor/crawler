@@ -1,6 +1,6 @@
-# Cursor - Build In Docs
+# Cursor Built-In Documentation
 
-The docs that [Cursor](https://cursor.com/) can see out-of-the-box.
+This repository contains the official list of built-in documentation sources available in [Cursor](https://cursor.com/), the AI code editor.
 
 <p align="center">
 <a href="https://cursor.so/">
@@ -8,16 +8,26 @@ The docs that [Cursor](https://cursor.com/) can see out-of-the-box.
 </a>
 </p>
 
-### Contributing
+## What is this?
 
-Simply add a row to [`docs.jsonl`](docs.jsonl) and submit a PR. Please include the project's name, a url for our crawler to start at, and a prefix url that all crawleded urls should be children of.
+When using Cursor, you can reference documentation for libraries, frameworks, and languages using the `@docs` functionality. For example, typing `@React` will provide context about React's documentation.
 
-**Please only submit one document in a PR, batched additions will be closed regardless of the contents**
+While you can add custom documentation sources to your local Cursor installation, this repository controls what documentation is available out-of-the-box for all users.
 
-Once accepted, we'll crawl your documentation and make it available to all users of Cursor. Anyone will be able to reference the project with a simple '@ProjectName' command.
+## Contributing
 
-### What is this repo?
+We welcome contributions to expand our built-in documentation! Here's how to add a new source:
 
-Within the Cursor IDE, you can provide additional context about the libraries, languages, and frameworks you are using, using the @docs functionality. 
+1. Add a single new entry to [`docs.jsonl`](docs.jsonl) with:
+   - Project name
+   - Starting URL for our crawler
+   - Prefix URL that all crawled pages should be under
+2. Run `./scripts/reorder.sh` to sort the entries
+3. Submit a PR with:
+   - Only ONE new documentation source
+   - A comment explaining what documentation you're adding and why
+   - Confirmation that you've run the reorder script
 
-While you can freely add any documentation you like into your own installation, this repo controls the list of build-in docs that are available out the box. 
+**Note:** PRs with multiple documentation additions will be closed. Please submit separate PRs for each source.
+
+Once approved, we'll crawl the documentation and make it available to all Cursor users via the `@ProjectName` command.

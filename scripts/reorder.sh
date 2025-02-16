@@ -3,10 +3,10 @@
 # Get the directory where the script is located
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-# Convert pretty-printed JSON to line-delimited, sort, remove duplicates
+# Sort JSON entries by name, remove duplicates, ensure one item per line
 jq -c '.' "$SCRIPT_DIR/../docs.jsonl" | \
   jq -s 'sort_by(.name) | unique_by(.name) | .[]' | \
-  jq -c '.' > "$SCRIPT_DIR/../docs.jsonl.tmp"
+  tr -d '\n' | sed 's/}{/}\n{/g' > "$SCRIPT_DIR/../docs.jsonl.tmp"
 
 mv "$SCRIPT_DIR/../docs.jsonl.tmp" "$SCRIPT_DIR/../docs.jsonl"
 

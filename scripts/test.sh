@@ -22,12 +22,9 @@ while read -r line; do
     # Update docs.jsonl with redirect destination
     sed -i '' "${line_num}s|\"crawlerStart\": \"$url\"|\"crawlerStart\": \"$redirect_url\"|" "$SCRIPT_DIR/../docs.jsonl"
   elif [[ $status == "404" ]]; then
-    echo -e "\033[31m✗ $url (404 - removing from docs.jsonl)\033[0m"
-    # Get the start and end line numbers for the JSON object
-    start_line=$((line_num - 1))
-    end_line=$((line_num + 2))
-    # Delete the JSON object from docs.jsonl
-    sed -i '' "${start_line},${end_line}d" "$SCRIPT_DIR/../docs.jsonl"
+    echo -e "\033[31m✗ $url (404) - removing entry\033[0m"
+    # Remove the line from docs.jsonl
+    sed -i '' "${line_num}d" "$SCRIPT_DIR/../docs.jsonl"
   else
     echo -e "\033[31m✗ $url ($status)\033[0m"
   fi
