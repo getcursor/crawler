@@ -32,6 +32,7 @@
 {  "name": "Deno",  "crawlerStart": "https://deno.land/manual@v1.35.0/introduction",  "crawlerPrefix": "https://deno.land/manual@v1.35.0/"}
 {  "name": "DigitalOcean",  "crawlerStart": "https://docs.digitalocean.com/",  "crawlerPrefix": "https://docs.digitalocean.com/"}
 {  "name": "Django",  "crawlerStart": "https://docs.djangoproject.com/en/4.2/",  "crawlerPrefix": "https://docs.djangoproject.com/en/4.2/"}
+{  "name": "Django Rest Framework",  "crawlerStart": "https://www.django-rest-framework.org/api-guide/requests/",  "crawlerPrefix": "https://www.django-rest-framework.org/api-guide"}
 {  "name": "Docker",  "crawlerStart": "https://docs.docker.com/",  "crawlerPrefix": "https://docs.docker.com/"}
 {  "name": "Drizzle",  "crawlerStart": "https://orm.drizzle.team/docs/overview",  "crawlerPrefix": "https://orm.drizzle.team/docs/overview"}
 {  "name": "ELK Stack",  "crawlerStart": "https://www.elastic.co/guide/en/elastic-stack/current/index.html",  "crawlerPrefix": "https://www.elastic.co/guide/en/elastic-stack/current/"}
@@ -132,4 +133,3 @@
 {  "name": "Vue",  "crawlerStart": "https://vuejs.org/guide/introduction.html",  "crawlerPrefix": "https://vuejs.org/guide/"}
 {  "name": "Webpack",  "crawlerStart": "https://webpack.js.org/concepts/",  "crawlerPrefix": "https://webpack.js.org/concepts/"}
 {  "name": "Zsh",  "crawlerStart": "https://zsh.sourceforge.io/Doc/",  "crawlerPrefix": "https://zsh.sourceforge.io/Doc/"}
-{  "name": "Django Rest Framework", "crawlerStart": "https://www.django-rest-framework.org/api-guide/requests/", "crawlerPrefix": "https://www.django-rest-framework.org/api-guide"}
