@@ -1,4 +1,4 @@
-# docs
+# Cursor - Build In Docs
 
 The docs that [Cursor](https://cursor.com/) can see out-of-the-box.
 
