@@ -25,6 +25,7 @@
 {  "name": "Clerk",  "crawlerStart": "https://clerk.com/docs",  "crawlerPrefix": "https://clerk.com/docs"}
 {  "name": "Cloudflare",  "crawlerStart": "https://developers.cloudflare.com/",  "crawlerPrefix": "https://developers.cloudflare.com/"}
 {  "name": "CodeMirror",  "crawlerStart": "https://codemirror.net/docs/",  "crawlerPrefix": "https://codemirror.net/docs/"}
+{  "name": "Cursor",  "crawlerStart": "https://docs.cursor.com/",  "crawlerPrefix": "https://docs.cursor.com/"}
 {  "name": "Cypress",  "crawlerStart": "https://docs.cypress.io/guides/overview/why-cypress",  "crawlerPrefix": "https://docs.cypress.io/guides/"}
 {  "name": "D3",  "crawlerStart": "https://d3js.org/getting-started",  "crawlerPrefix": "https://d3js.org/"}
 {  "name": "Datadog",  "crawlerStart": "https://docs.datadoghq.com/",  "crawlerPrefix": "https://docs.datadoghq.com/"}
