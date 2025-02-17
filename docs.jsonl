@@ -114,6 +114,7 @@
 {  "name": "Scikit-learn",  "crawlerStart": "https://scikit-learn.org/stable/",  "crawlerPrefix": "https://scikit-learn.org/stable/"}
 {  "name": "Selenium",  "crawlerStart": "https://www.selenium.dev/documentation/",  "crawlerPrefix": "https://www.selenium.dev/documentation/"}
 {  "name": "Sentry",  "crawlerStart": "https://docs.sentry.io/",  "crawlerPrefix": "https://docs.sentry.io/"}
+{  "name": "Smolagents",  "crawlerStart": "https://huggingface.co/docs/smolagents/en/index",  "crawlerPrefix": "https://huggingface.co/docs/smolagents/en/"}
 {  "name": "Socket.io",  "crawlerStart": "https://socket.io/docs/v4/",  "crawlerPrefix": "https://socket.io/docs/v4/"}
 {  "name": "Solidity",  "crawlerStart": "https://docs.soliditylang.org/en/latest/",  "crawlerPrefix": "https://docs.soliditylang.org/en/latest/"}
 {  "name": "Spring",  "crawlerStart": "https://docs.spring.io/spring-framework/reference/",  "crawlerPrefix": "https://docs.spring.io/spring-framework/reference/"}
