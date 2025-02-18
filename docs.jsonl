@@ -77,6 +77,7 @@
 {  "name": "Laravel",  "crawlerStart": "https://laravel.com/docs/10.x",  "crawlerPrefix": "https://laravel.com/docs/10.x"}
 {  "name": "Linux Man Pages",  "crawlerStart": "https://man7.org/linux/man-pages/dir_all_alphabetic.html",  "crawlerPrefix": "https://man7.org/linux/man-pages/"}
 {  "name": "MLX",  "crawlerStart": "https://ml-explore.github.io/mlx/build/html/",  "crawlerPrefix": "https://ml-explore.github.io/mlx/build/html/"}
+{  "name": "Mantine",  "crawlerStart": "https://mantine.dev/overview/",  "crawlerPrefix": "https://mantine.dev/overview/"}
 {  "name": "Material UI",  "crawlerStart": "https://mui.com/material-ui/getting-started/",  "crawlerPrefix": "https://mui.com/material-ui/"}
 {  "name": "Matplotlib",  "crawlerStart": "https://matplotlib.org/stable/api/",  "crawlerPrefix": "https://matplotlib.org/stable/api/"}
 {  "name": "Maven",  "crawlerStart": "https://maven.apache.org/guides/",  "crawlerPrefix": "https://maven.apache.org/guides/"}
