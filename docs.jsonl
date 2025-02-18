@@ -3,6 +3,7 @@
 {  "name": "AWS CLI",  "crawlerStart": "https://docs.aws.amazon.com/cli/latest/reference/",  "crawlerPrefix": "https://docs.aws.amazon.com/cli/latest/reference/"}
 {  "name": "AWS DynamoDB",  "crawlerStart": "https://docs.aws.amazon.com/dynamodb/",  "crawlerPrefix": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/"}
 {  "name": "AWS ECS",  "crawlerStart": "https://docs.aws.amazon.com/ecs/",  "crawlerPrefix": "https://docs.aws.amazon.com/ecs/latest/developerguide/"}
+{  "name": "AWS Lambda",  "crawlerStart": "https://docs.aws.amazon.com/lambda/index.html",  "crawlerPrefix": "https://docs.aws.amazon.com/lambda/latest/dg/"}
 {  "name": "AWS RDS",  "crawlerStart": "https://docs.aws.amazon.com/rds/",  "crawlerPrefix": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/"}
 {  "name": "Amazon EC2",  "crawlerStart": "https://docs.aws.amazon.com/ec2/index.html",  "crawlerPrefix": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/"}
 {  "name": "Amazon S3",  "crawlerStart": "https://docs.aws.amazon.com/s3/index.html",  "crawlerPrefix": "https://docs.aws.amazon.com/AmazonS3/latest/userguide/"}
@@ -13,7 +14,6 @@
 {  "name": "Apollo GraphQL",  "crawlerStart": "https://www.apollographql.com/docs/",  "crawlerPrefix": "https://www.apollographql.com/docs/"}
 {  "name": "Astro",  "crawlerStart": "https://docs.astro.build/en/",  "crawlerPrefix": "https://docs.astro.build/en/"}
 {  "name": "Auth0",  "crawlerStart": "https://auth0.com/docs",  "crawlerPrefix": "https://auth0.com/docs"}
-{  "name": "Aws Lambda",  "crawlerStart": "https://docs.aws.amazon.com/lambda/index.html",  "crawlerPrefix": "https://docs.aws.amazon.com/lambda/latest/dg/"}
 {  "name": "Azure Pipelines",  "crawlerStart": "https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops",  "crawlerPrefix": "https://docs.microsoft.com/en-us/azure/devops/pipelines/"}
 {  "name": "Bash",  "crawlerStart": "https://www.gnu.org/software/bash/manual/bash.html",  "crawlerPrefix": "https://www.gnu.org/software/bash/manual/"}
 {  "name": "BeautifulSoup",  "crawlerStart": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/",  "crawlerPrefix": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/"}
@@ -76,6 +76,7 @@
 {  "name": "Langchain-JS",  "crawlerStart": "https://js.langchain.com/docs/",  "crawlerPrefix": "https://js.langchain.com/docs/"}
 {  "name": "Laravel",  "crawlerStart": "https://laravel.com/docs/10.x",  "crawlerPrefix": "https://laravel.com/docs/10.x"}
 {  "name": "Linux Man Pages",  "crawlerStart": "https://man7.org/linux/man-pages/dir_all_alphabetic.html",  "crawlerPrefix": "https://man7.org/linux/man-pages/"}
+{  "name": "MLX",  "crawlerStart": "https://ml-explore.github.io/mlx/build/html/",  "crawlerPrefix": "https://ml-explore.github.io/mlx/build/html/"}
 {  "name": "Material UI",  "crawlerStart": "https://mui.com/material-ui/getting-started/",  "crawlerPrefix": "https://mui.com/material-ui/"}
 {  "name": "Matplotlib",  "crawlerStart": "https://matplotlib.org/stable/api/",  "crawlerPrefix": "https://matplotlib.org/stable/api/"}
 {  "name": "Maven",  "crawlerStart": "https://maven.apache.org/guides/",  "crawlerPrefix": "https://maven.apache.org/guides/"}
