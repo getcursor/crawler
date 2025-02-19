@@ -127,6 +127,7 @@
 {  "name": "Tailwind",  "crawlerStart": "https://tailwindcss.com/docs",  "crawlerPrefix": "https://tailwindcss.com/docs"}
 {  "name": "Terraform",  "crawlerStart": "https://developer.hashicorp.com/terraform/docs",  "crawlerPrefix": "https://developer.hashicorp.com/terraform/docs"}
 {  "name": "Three.js",  "crawlerStart": "https://threejs.org/docs/",  "crawlerPrefix": "https://threejs.org/docs/"}
+{  "name": "Tinygrad",  "crawlerStart": "https://docs.tinygrad.org",  "crawlerPrefix": "https://docs.tinygrad.org"}
 {  "name": "TypeScript",  "crawlerStart": "https://www.typescriptlang.org/docs/",  "crawlerPrefix": "https://www.typescriptlang.org/docs/"}
 {  "name": "Unity",  "crawlerStart": "https://docs.unity3d.com/Manual/",  "crawlerPrefix": "https://docs.unity3d.com/Manual/"}
 {  "name": "Unreal Engine",  "crawlerStart": "https://docs.unrealengine.com/5.0/en-US/",  "crawlerPrefix": "https://docs.unrealengine.com/5.0/en-US/"}
