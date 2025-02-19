@@ -64,6 +64,7 @@
 {  "name": "Heroku",  "crawlerStart": "https://devcenter.heroku.com/categories/reference",  "crawlerPrefix": "https://devcenter.heroku.com/"}
 {  "name": "Insomnia",  "crawlerStart": "https://docs.insomnia.rest/",  "crawlerPrefix": "https://docs.insomnia.rest/"}
 {  "name": "Ionic",  "crawlerStart": "https://ionicframework.com/docs",  "crawlerPrefix": "https://ionicframework.com/docs"}
+{  "name": "JAX",  "crawlerStart": "https://jax.readthedocs.io/en/latest/",  "crawlerPrefix": "https://jax.readthedocs.io/"}
 {  "name": "JUnit 5",  "crawlerStart": "https://junit.org/junit5/docs/current/user-guide/",  "crawlerPrefix": "https://junit.org/junit5/docs/current/user-guide/"}
 {  "name": "Java",  "crawlerStart": "https://docs.oracle.com/javase/8/docs/api/",  "crawlerPrefix": "https://docs.oracle.com/javase/8/docs/api/"}
 {  "name": "Jenkins",  "crawlerStart": "https://www.jenkins.io/doc/",  "crawlerPrefix": "https://www.jenkins.io/doc/"}
