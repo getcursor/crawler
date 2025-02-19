@@ -1,3 +1,4 @@
+{  "name": "AEM Edge Delivery Services",  "crawlerStart": "https://www.aem.live/docs",  "crawlerPrefix": "https://www.aem.live/"}
 {  "name": "ASP.NET",  "crawlerStart": "https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0",  "crawlerPrefix": "https://learn.microsoft.com/en-us/aspnet/core/"}
 {  "name": "AWS Amplify",  "crawlerStart": "https://docs.amplify.aws/",  "crawlerPrefix": "https://docs.amplify.aws/"}
 {  "name": "AWS CLI",  "crawlerStart": "https://docs.aws.amazon.com/cli/latest/reference/",  "crawlerPrefix": "https://docs.aws.amazon.com/cli/latest/reference/"}
