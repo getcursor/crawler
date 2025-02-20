@@ -96,7 +96,7 @@
 {  "name": "Nuxt",  "crawlerStart": "https://nuxt.com/docs",  "crawlerPrefix": "https://nuxt.com/docs"}
 {  "name": "OpenAI",  "crawlerStart": "https://platform.openai.com/docs/",  "crawlerPrefix": "https://platform.openai.com/docs/"}
 {  "name": "OpenCV",  "crawlerStart": "https://docs.opencv.org/4.x/",  "crawlerPrefix": "https://docs.opencv.org/4.x/"}
-{  "name": "OpenUSD",  "crawlerStart": "https://openusd.org/docs/api/index.html",  "crawlerPrefix": "https://openusd.org/docs/api/index.html"}
+{  "name": "OpenUSD",  "crawlerStart": "https://openusd.org/docs/api/index.html",  "crawlerPrefix": "https://openusd.org/docs/api"}
 {  "name": "PHP",  "crawlerStart": "https://www.php.net/manual/en/",  "crawlerPrefix": "https://www.php.net/manual/en/"}
 {  "name": "Pandas",  "crawlerStart": "https://pandas.pydata.org/docs/",  "crawlerPrefix": "https://pandas.pydata.org/docs/"}
 {  "name": "Playwright",  "crawlerStart": "https://playwright.dev/docs/intro",  "crawlerPrefix": "https://playwright.dev/docs/"}
