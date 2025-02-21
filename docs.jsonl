@@ -136,3 +136,15 @@
 {  "name": "Vue",  "crawlerStart": "https://vuejs.org/guide/introduction.html",  "crawlerPrefix": "https://vuejs.org/guide/"}
 {  "name": "Webpack",  "crawlerStart": "https://webpack.js.org/concepts/",  "crawlerPrefix": "https://webpack.js.org/concepts/"}
 {  "name": "Zsh",  "crawlerStart": "https://zsh.sourceforge.io/Doc/",  "crawlerPrefix": "https://zsh.sourceforge.io/Doc/"}
+{   "name": "Payload",  "crawlerStart": "https://payloadcms.com/docs",  "crawlerPrefix": "https://payloadcms.com/docs"}
+{   "name": "Langchain-Python", "crawlerStart": "https://python.langchain.com/docs",  "crawlerPrefix": "https://python.langchain.com/docs"}
+{   "name": "IBM Quantum", "crawlerStart": "https://docs.quantum.ibm.com/",  "crawlerPrefix": "https://docs.quantum.ibm.com/"}
+{   "name": "CrewAi", "crawlerStart": "https://docs.crewai.com/",  "crawlerPrefix": "https://docs.crewai.com/"}
+{   "name": "Drizzle", "crawlerStart": "https://orm.drizzle.team/docs",  "crawlerPrefix": "https://orm.drizzle.team/docs"}
+{   "name": "Magicui", "crawlerStart": "https://magicui.design/docs",  "crawlerPrefix": "https://magicui.design/docs"}
+{   "name": "Ai Sdk", "crawlerStart": "https://sdk.vercel.ai/llms.txt",  "crawlerPrefix": "https://sdk.vercel.ai/llms.txt"}
+{   "name": "Shadcn", "crawlerStart": "https://ui.shadcn.com/docs",  "crawlerPrefix": "https://ui.shadcn.com/docs"}
+{   "name": "Mojo", "crawlerStart": "https://docs.modular.com/mojo/manual/",  "crawlerPrefix": "https://docs.modular.com/mojo/manual/"}
+{   "name": "Tauri", "crawlerStart": "https://docs.rs/tauri/1.8.2/tauri/",  "crawlerPrefix": "https://docs.rs/tauri/1.8.2/tauri/"}
+{   "name": "Unsloth", "crawlerStart": "https://docs.unsloth.ai/",  "crawlerPrefix": "https://docs.unsloth.ai/"}
+{   "name": "Gemini", "crawlerStart": "https://ai.google.dev/gemini-api/docs",  "crawlerPrefix": "https://ai.google.dev/gemini-api/docs"}
