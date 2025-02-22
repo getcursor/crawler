@@ -6,7 +6,7 @@
 {  "name": "Ant Design",  "crawlerStart": "https://ant.design/docs/react/introduce",  "crawlerPrefix": "https://ant.design/docs/react/"}
 {  "name": "Apollo GraphQL",  "crawlerStart": "https://www.apollographql.com/docs/",  "crawlerPrefix": "https://www.apollographql.com/docs/"}
 {  "name": "ASP.NET",  "crawlerStart": "https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0",  "crawlerPrefix": "https://learn.microsoft.com/en-us/aspnet/core/"}
-{  "name": "AsssemblyAI",  "crawlerStart": "https://www.assemblyai.com/docs",  "crawlerPrefix": "https://www.assemblyai.com/docs"}
+{  "name": "AssemblyAI",  "crawlerStart": "https://www.assemblyai.com/docs",  "crawlerPrefix": "https://www.assemblyai.com/docs"}
 {  "name": "Astro",  "crawlerStart": "https://docs.astro.build/en/",  "crawlerPrefix": "https://docs.astro.build/en/"}
 {  "name": "Auth0",  "crawlerStart": "https://auth0.com/docs",  "crawlerPrefix": "https://auth0.com/docs"}
 {  "name": "AWS Amplify",  "crawlerStart": "https://docs.amplify.aws/",  "crawlerPrefix": "https://docs.amplify.aws/"}
