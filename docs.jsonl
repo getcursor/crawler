@@ -31,6 +31,7 @@
 {  "name": "Datadog",  "crawlerStart": "https://docs.datadoghq.com/",  "crawlerPrefix": "https://docs.datadoghq.com/"}
 {  "name": "Deno",  "crawlerStart": "https://deno.land/manual@v1.35.0/introduction",  "crawlerPrefix": "https://deno.land/manual@v1.35.0/"}
 {  "name": "DigitalOcean",  "crawlerStart": "https://docs.digitalocean.com/",  "crawlerPrefix": "https://docs.digitalocean.com/"}
+{  "name": "Discord API",  "crawlerStart": "https://discord.com/developers/docs/intro",  "crawlerPrefix": "https://discord.com/developers/docs"}
 {  "name": "Django",  "crawlerStart": "https://docs.djangoproject.com/en/4.2/",  "crawlerPrefix": "https://docs.djangoproject.com/en/4.2/"}
 {  "name": "Django Rest Framework",  "crawlerStart": "https://www.django-rest-framework.org/api-guide/requests/",  "crawlerPrefix": "https://www.django-rest-framework.org/api-guide"}
 {  "name": "Docker",  "crawlerStart": "https://docs.docker.com/",  "crawlerPrefix": "https://docs.docker.com/"}
@@ -111,7 +112,7 @@
 {  "name": "Redis",  "crawlerStart": "https://redis.io/docs/",  "crawlerPrefix": "https://redis.io/docs/"}
 {  "name": "Regex",  "crawlerStart": "https://www.regular-expressions.info/",  "crawlerPrefix": "https://www.regular-expressions.info/"}
 {  "name": "Remix",  "crawlerStart": "https://remix.run/docs/en/main",  "crawlerPrefix": "https://remix.run/docs/"}
-{  "name": "Ruby",  "crawlerStart": "https://docs.ruby-lang.org/en/master/", "crawlerPrefix": "https://docs.ruby-lang.org/en/" }
+{  "name": "Ruby",  "crawlerStart": "https://docs.ruby-lang.org/en/master/",  "crawlerPrefix": "https://docs.ruby-lang.org/en/"}
 {  "name": "Rust",  "crawlerStart": "https://doc.rust-lang.org/book/",  "crawlerPrefix": "https://doc.rust-lang.org/book/"}
 {  "name": "Rust Stdlib",  "crawlerStart": "https://doc.rust-lang.org/std/",  "crawlerPrefix": "https://doc.rust-lang.org/std/"}
 {  "name": "SQLite",  "crawlerStart": "https://www.sqlite.org/docs.html",  "crawlerPrefix": "https://www.sqlite.org/"}
