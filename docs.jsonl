@@ -18,6 +18,7 @@
 {  "name": "Bash",  "crawlerStart": "https://www.gnu.org/software/bash/manual/bash.html",  "crawlerPrefix": "https://www.gnu.org/software/bash/manual/"}
 {  "name": "BeautifulSoup",  "crawlerStart": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/",  "crawlerPrefix": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/"}
 {  "name": "Boto3",  "crawlerStart": "https://boto3.amazonaws.com/v1/documentation/api/latest/index.html",  "crawlerPrefix": "https://boto3.amazonaws.com/v1/documentation/api/latest/"}
+{  "name": "Bun",  "crawlerStart": "https://bun.sh/docs",  "crawlerPrefix": "https://bun.sh/docs"}
 {  "name": "C#",  "crawlerStart": "https://learn.microsoft.com/en-us/dotnet/csharp/",  "crawlerPrefix": "https://learn.microsoft.com/en-us/dotnet/csharp/"}
 {  "name": "CSS",  "crawlerStart": "https://developer.mozilla.org/en-US/docs/Web/CSS",  "crawlerPrefix": "https://developer.mozilla.org/en-US/docs/Web/CSS"}
 {  "name": "Cheerio",  "crawlerStart": "https://cheerio.js.org/docs/intro",  "crawlerPrefix": "https://cheerio.js.org/docs/"}
