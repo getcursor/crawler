@@ -137,6 +137,7 @@
 {  "name": "Vercel",  "crawlerStart": "https://vercel.com/docs",  "crawlerPrefix": "https://vercel.com/docs"}
 {  "name": "Vim",  "crawlerStart": "https://vimhelp.org/",  "crawlerPrefix": "https://vimhelp.org/"}
 {  "name": "Vite",  "crawlerStart": "https://vitejs.dev/guide/",  "crawlerPrefix": "https://vitejs.dev/guide/"}
+{  "name": "Vitest",  "crawlerStart": "https://vitest.dev/guide/",  "crawlerPrefix": "https://vitest.dev/guide/"}
 {  "name": "Vue",  "crawlerStart": "https://vuejs.org/guide/introduction.html",  "crawlerPrefix": "https://vuejs.org/guide/"}
 {  "name": "Webpack",  "crawlerStart": "https://webpack.js.org/concepts/",  "crawlerPrefix": "https://webpack.js.org/concepts/"}
 {  "name": "Zsh",  "crawlerStart": "https://zsh.sourceforge.io/Doc/",  "crawlerPrefix": "https://zsh.sourceforge.io/Doc/"}
