@@ -11,6 +11,7 @@
 {  "name": "Angular",  "crawlerStart": "https://angular.dev/overview",  "crawlerPrefix": "https://angular.dev/"}
 {  "name": "Ansible",  "crawlerStart": "https://docs.ansible.com/ansible/latest/index.html",  "crawlerPrefix": "https://docs.ansible.com/ansible/latest/"}
 {  "name": "Ant Design",  "crawlerStart": "https://ant.design/docs/react/introduce",  "crawlerPrefix": "https://ant.design/docs/react/"}
+{  "name": "Apache Airflow",  "crawlerStart": "https://airflow.apache.org/docs/apache-airflow/stable/index.html",  "crawlerPrefix": "https://airflow.apache.org/docs/apache-airflow/stable/"}
 {  "name": "Apollo GraphQL",  "crawlerStart": "https://www.apollographql.com/docs/",  "crawlerPrefix": "https://www.apollographql.com/docs/"}
 {  "name": "Apple Developer Documention",  "crawlerStart": "https://developer.apple.com/documentation/",  "crawlerPrefix": "https://developer.apple.com/documentation/"}
 {  "name": "Astro",  "crawlerStart": "https://docs.astro.build/en/",  "crawlerPrefix": "https://docs.astro.build/en/"}
