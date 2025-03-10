@@ -64,7 +64,6 @@
 {  "name": "Grafana",  "crawlerStart": "https://grafana.com/docs/grafana/latest/",  "crawlerPrefix": "https://grafana.com/docs/grafana/latest/"}
 {  "name": "GraphQL",  "crawlerStart": "https://graphql.org/learn/",  "crawlerPrefix": "https://graphql.org/learn/"}
 {  "name": "HTML",  "crawlerStart": "https://developer.mozilla.org/en-US/docs/Web/HTML",  "crawlerPrefix": "https://developer.mozilla.org/en-US/docs/Web/HTML"}
-{  "name": "help",  "crawlerStart": "https://docs.cursor.com/get-started/welcome",  "crawlerPrefix": "https://docs.cursor.com/"}
 {  "name": "Heroku",  "crawlerStart": "https://devcenter.heroku.com/categories/reference",  "crawlerPrefix": "https://devcenter.heroku.com/"}
 {  "name": "Insomnia",  "crawlerStart": "https://docs.insomnia.rest/",  "crawlerPrefix": "https://docs.insomnia.rest/"}
 {  "name": "Ionic",  "crawlerStart": "https://ionicframework.com/docs",  "crawlerPrefix": "https://ionicframework.com/docs"}
@@ -81,6 +80,7 @@
 {  "name": "Langchain-JS",  "crawlerStart": "https://js.langchain.com/docs/",  "crawlerPrefix": "https://js.langchain.com/docs/"}
 {  "name": "Laravel",  "crawlerStart": "https://laravel.com/docs/10.x",  "crawlerPrefix": "https://laravel.com/docs/10.x"}
 {  "name": "Linux Man Pages",  "crawlerStart": "https://man7.org/linux/man-pages/dir_all_alphabetic.html",  "crawlerPrefix": "https://man7.org/linux/man-pages/"}
+{  "name": "MCP",  "crawlerStart": "https://modelcontextprotocol.io/introduction",  "crawlerPrefix": "https://modelcontextprotocol.io/"}
 {  "name": "MLX",  "crawlerStart": "https://ml-explore.github.io/mlx/build/html/",  "crawlerPrefix": "https://ml-explore.github.io/mlx/build/html/"}
 {  "name": "Material UI",  "crawlerStart": "https://mui.com/material-ui/getting-started/",  "crawlerPrefix": "https://mui.com/material-ui/"}
 {  "name": "Matplotlib",  "crawlerStart": "https://matplotlib.org/stable/api/",  "crawlerPrefix": "https://matplotlib.org/stable/api/"}
@@ -144,3 +144,4 @@
 {  "name": "Vue",  "crawlerStart": "https://vuejs.org/guide/introduction.html",  "crawlerPrefix": "https://vuejs.org/guide/"}
 {  "name": "Webpack",  "crawlerStart": "https://webpack.js.org/concepts/",  "crawlerPrefix": "https://webpack.js.org/concepts/"}
 {  "name": "Zsh",  "crawlerStart": "https://zsh.sourceforge.io/Doc/",  "crawlerPrefix": "https://zsh.sourceforge.io/Doc/"}
+{  "name": "help",  "crawlerStart": "https://docs.cursor.com/get-started/welcome",  "crawlerPrefix": "https://docs.cursor.com/"}
