@@ -131,6 +131,7 @@
 {  "name": "Stripe",  "crawlerStart": "https://stripe.com/docs",  "crawlerPrefix": "https://stripe.com/docs"}
 {  "name": "Supabase",  "crawlerStart": "https://supabase.com/docs",  "crawlerPrefix": "https://supabase.com/docs"}
 {  "name": "Svelte",  "crawlerStart": "https://svelte.dev/docs",  "crawlerPrefix": "https://svelte.dev/docs"}
+{  "name": "Symfony",  "crawlerStart": "https://symfony.com/doc/current/",  "crawlerPrefix": "https://symfony.com/doc/"}
 {  "name": "Tailwind",  "crawlerStart": "https://tailwindcss.com/docs",  "crawlerPrefix": "https://tailwindcss.com/docs"}
 {  "name": "Terraform",  "crawlerStart": "https://developer.hashicorp.com/terraform/docs",  "crawlerPrefix": "https://developer.hashicorp.com/terraform/docs"}
 {  "name": "Three.js",  "crawlerStart": "https://threejs.org/docs/",  "crawlerPrefix": "https://threejs.org/docs/"}
