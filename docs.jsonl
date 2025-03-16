@@ -143,6 +143,7 @@
 {  "name": "Vite",  "crawlerStart": "https://vitejs.dev/guide/",  "crawlerPrefix": "https://vitejs.dev/guide/"}
 {  "name": "Vitest",  "crawlerStart": "https://vitest.dev/guide/",  "crawlerPrefix": "https://vitest.dev/guide/"}
 {  "name": "Vue",  "crawlerStart": "https://vuejs.org/guide/introduction.html",  "crawlerPrefix": "https://vuejs.org/guide/"}
+{  "name": "VueUse",  "crawlerStart": "https://vueuse.org/guide/",  "crawlerPrefix": "https://vueuse.org/"}
 {  "name": "Webpack",  "crawlerStart": "https://webpack.js.org/concepts/",  "crawlerPrefix": "https://webpack.js.org/concepts/"}
 {  "name": "Zsh",  "crawlerStart": "https://zsh.sourceforge.io/Doc/",  "crawlerPrefix": "https://zsh.sourceforge.io/Doc/"}
 {  "name": "help",  "crawlerStart": "https://docs.cursor.com/get-started/welcome",  "crawlerPrefix": "https://docs.cursor.com/"}
