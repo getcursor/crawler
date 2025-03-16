@@ -17,6 +17,7 @@
 {  "name": "Astro",  "crawlerStart": "https://docs.astro.build/en/",  "crawlerPrefix": "https://docs.astro.build/en/"}
 {  "name": "Auth0",  "crawlerStart": "https://auth0.com/docs",  "crawlerPrefix": "https://auth0.com/docs"}
 {  "name": "Azure Pipelines",  "crawlerStart": "https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops",  "crawlerPrefix": "https://docs.microsoft.com/en-us/azure/devops/pipelines/"}
+{  "name": "Base",  "crawlerStart": "https://docs.base.org/",  "crawlerPrefix": "https://docs.base.org/"}
 {  "name": "Bash",  "crawlerStart": "https://www.gnu.org/software/bash/manual/bash.html",  "crawlerPrefix": "https://www.gnu.org/software/bash/manual/"}
 {  "name": "BeautifulSoup",  "crawlerStart": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/",  "crawlerPrefix": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/"}
 {  "name": "Boto3",  "crawlerStart": "https://boto3.amazonaws.com/v1/documentation/api/latest/index.html",  "crawlerPrefix": "https://boto3.amazonaws.com/v1/documentation/api/latest/"}
