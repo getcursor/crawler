@@ -100,6 +100,7 @@
 {  "name": "Notion",  "crawlerStart": "https://developers.notion.com/reference/",  "crawlerPrefix": "https://developers.notion.com/reference/"}
 {  "name": "NumPy",  "crawlerStart": "https://numpy.org/doc/stable/",  "crawlerPrefix": "https://numpy.org/doc/stable/"}
 {  "name": "Nuxt",  "crawlerStart": "https://nuxt.com/docs",  "crawlerPrefix": "https://nuxt.com/docs"}
+{  "name": "Nx",  "crawlerStart": "https://nx.dev/getting-started/intro",  "crawlerPrefix": "https://nx.dev/"}
 {  "name": "OpenAI",  "crawlerStart": "https://platform.openai.com/docs/",  "crawlerPrefix": "https://platform.openai.com/docs/"}
 {  "name": "OpenCV",  "crawlerStart": "https://docs.opencv.org/4.x/",  "crawlerPrefix": "https://docs.opencv.org/4.x/"}
 {  "name": "PHP",  "crawlerStart": "https://www.php.net/manual/en/",  "crawlerPrefix": "https://www.php.net/manual/en/"}
