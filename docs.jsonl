@@ -144,5 +144,6 @@
 {  "name": "Vitest",  "crawlerStart": "https://vitest.dev/guide/",  "crawlerPrefix": "https://vitest.dev/guide/"}
 {  "name": "Vue",  "crawlerStart": "https://vuejs.org/guide/introduction.html",  "crawlerPrefix": "https://vuejs.org/guide/"}
 {  "name": "Webpack",  "crawlerStart": "https://webpack.js.org/concepts/",  "crawlerPrefix": "https://webpack.js.org/concepts/"}
+{  "name": "Zig",  "crawlerStart": "https://ziglang.org/documentation/master/",  "crawlerPrefix": "https://ziglang.org/documentation/master/"}
 {  "name": "Zsh",  "crawlerStart": "https://zsh.sourceforge.io/Doc/",  "crawlerPrefix": "https://zsh.sourceforge.io/Doc/"}
 {  "name": "help",  "crawlerStart": "https://docs.cursor.com/get-started/welcome",  "crawlerPrefix": "https://docs.cursor.com/"}
