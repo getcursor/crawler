@@ -119,6 +119,7 @@
 {  "name": "Regex",  "crawlerStart": "https://www.regular-expressions.info/",  "crawlerPrefix": "https://www.regular-expressions.info/"}
 {  "name": "Remix",  "crawlerStart": "https://remix.run/docs/en/main",  "crawlerPrefix": "https://remix.run/docs/"}
 {  "name": "Ruby",  "crawlerStart": "https://docs.ruby-lang.org/en/master/",  "crawlerPrefix": "https://docs.ruby-lang.org/en/"}
+{  "name": "Ruff",  "crawlerStart": "https://docs.astral.sh/ruff/",  "crawlerPrefix": "https://docs.astral.sh/ruff/"}
 {  "name": "Rust",  "crawlerStart": "https://doc.rust-lang.org/book/",  "crawlerPrefix": "https://doc.rust-lang.org/book/"}
 {  "name": "Rust Stdlib",  "crawlerStart": "https://doc.rust-lang.org/std/",  "crawlerPrefix": "https://doc.rust-lang.org/std/"}
 {  "name": "SQLite",  "crawlerStart": "https://www.sqlite.org/docs.html",  "crawlerPrefix": "https://www.sqlite.org/"}
