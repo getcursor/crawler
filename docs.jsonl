@@ -89,6 +89,7 @@
 {  "name": "Microsoft Teams",  "crawlerStart": "https://learn.microsoft.com/en-us/microsoftteams/platform/",  "crawlerPrefix": "https://learn.microsoft.com/en-us/microsoftteams/platform/"}
 {  "name": "Mockito",  "crawlerStart": "https://javadoc.io/doc/org.mockito/mockito-core/latest/index.html",  "crawlerPrefix": "https://javadoc.io/doc/org.mockito/mockito-core/latest/"}
 {  "name": "MongoDB",  "crawlerStart": "https://www.mongodb.com/docs/manual/",  "crawlerPrefix": "https://www.mongodb.com/docs/manual/"}
+{  "name": "Mux",  "crawlerStart": "https://www.mux.com/docs/",  "crawlerPrefix": "https://www.mux.com/docs/"}
 {  "name": "MySQL",  "crawlerStart": "https://dev.mysql.com/doc/",  "crawlerPrefix": "https://dev.mysql.com/doc/"}
 {  "name": "NLTK",  "crawlerStart": "https://www.nltk.org/",  "crawlerPrefix": "https://www.nltk.org/"}
 {  "name": "Neo4j",  "crawlerStart": "https://neo4j.com/docs/",  "crawlerPrefix": "https://neo4j.com/docs/"}
