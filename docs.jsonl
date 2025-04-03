@@ -112,7 +112,7 @@
 {  "name": "Puppeteer",  "crawlerStart": "https://pptr.dev/",  "crawlerPrefix": "https://pptr.dev/"}
 {  "name": "PyTorch",  "crawlerStart": "https://pytorch.org/docs/stable/",  "crawlerPrefix": "https://pytorch.org/docs/stable/"}
 {  "name": "Python",  "crawlerStart": "https://docs.python.org/3/",  "crawlerPrefix": "https://docs.python.org/3/"}
-{  "name": "RAPIDS",  "crawlerStart": "https://docs.rapids.ai/api/cudf/stable/",  "crawlerPrefix": "https://docs.rapids.ai/api/cudf/stable/"}
+{  "name": "RAPIDS",  "crawlerStart": "https://docs.rapids.ai/",  "crawlerPrefix": "https://docs.rapids.ai/"}
 {  "name": "ROS",  "crawlerStart": "https://docs.ros.org/en/rolling/",  "crawlerPrefix": "https://docs.ros.org/en/rolling/"}
 {  "name": "Railway",  "crawlerStart": "https://docs.railway.app/",  "crawlerPrefix": "https://docs.railway.app/"}
 {  "name": "React",  "crawlerStart": "https://react.dev/reference/react",  "crawlerPrefix": "https://react.dev/reference/"}
