@@ -23,6 +23,7 @@
 {  "name": "Bun",  "crawlerStart": "https://bun.sh/docs",  "crawlerPrefix": "https://bun.sh/docs"}
 {  "name": "C#",  "crawlerStart": "https://learn.microsoft.com/en-us/dotnet/csharp/",  "crawlerPrefix": "https://learn.microsoft.com/en-us/dotnet/csharp/"}
 {  "name": "CSS",  "crawlerStart": "https://developer.mozilla.org/en-US/docs/Web/CSS",  "crawlerPrefix": "https://developer.mozilla.org/en-US/docs/Web/CSS"}
+{  "name": "CUDA",  "crawlerStart": "https://docs.nvidia.com/cuda/index.html", "crawlerPrefix":  "https://docs.nvidia.com/cuda/"}
 {  "name": "Cheerio",  "crawlerStart": "https://cheerio.js.org/docs/intro",  "crawlerPrefix": "https://cheerio.js.org/docs/"}
 {  "name": "CircleCI",  "crawlerStart": "https://circleci.com/docs/",  "crawlerPrefix": "https://circleci.com/docs/"}
 {  "name": "Clerk",  "crawlerStart": "https://clerk.com/docs",  "crawlerPrefix": "https://clerk.com/docs"}
