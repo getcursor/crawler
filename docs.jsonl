@@ -110,6 +110,7 @@
 {  "name": "Postman",  "crawlerStart": "https://learning.postman.com/docs/",  "crawlerPrefix": "https://learning.postman.com/docs/"}
 {  "name": "Prisma",  "crawlerStart": "https://www.prisma.io/docs",  "crawlerPrefix": "https://www.prisma.io/docs"}
 {  "name": "Puppeteer",  "crawlerStart": "https://pptr.dev/",  "crawlerPrefix": "https://pptr.dev/"}
+{  "name": "Pydantic", "crawlerStart": "https://docs.pydantic.dev/latest/", "crawlerPrefix": "https://docs.pydantic.dev/latest/" }
 {  "name": "PyTorch",  "crawlerStart": "https://pytorch.org/docs/stable/",  "crawlerPrefix": "https://pytorch.org/docs/stable/"}
 {  "name": "Python",  "crawlerStart": "https://docs.python.org/3/",  "crawlerPrefix": "https://docs.python.org/3/"}
 {  "name": "ROS",  "crawlerStart": "https://docs.ros.org/en/rolling/",  "crawlerPrefix": "https://docs.ros.org/en/rolling/"}
