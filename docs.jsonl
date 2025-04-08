@@ -103,6 +103,7 @@
 {  "name": "OpenAI",  "crawlerStart": "https://platform.openai.com/docs/",  "crawlerPrefix": "https://platform.openai.com/docs/"}
 {  "name": "OpenCV",  "crawlerStart": "https://docs.opencv.org/4.x/",  "crawlerPrefix": "https://docs.opencv.org/4.x/"}
 {  "name": "PHP",  "crawlerStart": "https://www.php.net/manual/en/",  "crawlerPrefix": "https://www.php.net/manual/en/"}
+{  "name": "POSIX.1-2024",  "crawlerStart": "https://pubs.opengroup.org/onlinepubs/9799919799/idx/index.html",  "crawlerPrefix": "https://pubs.opengroup.org/onlinepubs/9799919799/"}
 {  "name": "Pandas",  "crawlerStart": "https://pandas.pydata.org/docs/",  "crawlerPrefix": "https://pandas.pydata.org/docs/"}
 {  "name": "Playwright",  "crawlerStart": "https://playwright.dev/docs/intro",  "crawlerPrefix": "https://playwright.dev/docs/"}
 {  "name": "Pnpm",  "crawlerStart": "https://pnpm.io/",  "crawlerPrefix": "https://pnpm.io/"}
