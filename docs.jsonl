@@ -39,6 +39,7 @@
 {  "name": "Django Rest Framework",  "crawlerStart": "https://www.django-rest-framework.org/api-guide/requests/",  "crawlerPrefix": "https://www.django-rest-framework.org/api-guide"}
 {  "name": "Docker",  "crawlerStart": "https://docs.docker.com/",  "crawlerPrefix": "https://docs.docker.com/"}
 {  "name": "Drizzle",  "crawlerStart": "https://orm.drizzle.team/docs/overview",  "crawlerPrefix": "https://orm.drizzle.team/docs/overview"}
+{  "name": "DuckDB",  "crawlerStart": "https://duckdb.org/docs/sitemap",  "crawlerPrefix": "https://duckdb.org/docs/stable"}
 {  "name": "ELK Stack",  "crawlerStart": "https://www.elastic.co/guide/en/elastic-stack/current/index.html",  "crawlerPrefix": "https://www.elastic.co/guide/en/elastic-stack/current/"}
 {  "name": "ESBuild",  "crawlerStart": "https://esbuild.github.io/api/",  "crawlerPrefix": "https://esbuild.github.io/api/"}
 {  "name": "ESLint",  "crawlerStart": "https://eslint.org/docs/latest/",  "crawlerPrefix": "https://eslint.org/docs/latest/"}
