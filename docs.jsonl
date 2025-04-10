@@ -90,6 +90,7 @@
 {  "name": "Mockito",  "crawlerStart": "https://javadoc.io/doc/org.mockito/mockito-core/latest/index.html",  "crawlerPrefix": "https://javadoc.io/doc/org.mockito/mockito-core/latest/"}
 {  "name": "MongoDB",  "crawlerStart": "https://www.mongodb.com/docs/manual/",  "crawlerPrefix": "https://www.mongodb.com/docs/manual/"}
 {  "name": "MySQL",  "crawlerStart": "https://dev.mysql.com/doc/",  "crawlerPrefix": "https://dev.mysql.com/doc/"}
+{  "name": "Mypy",  "crawlerStart": "https://mypy.readthedocs.io/en/stable/",  "crawlerPrefix": "https://mypy.readthedocs.io/en/stable/"}
 {  "name": "NLTK",  "crawlerStart": "https://www.nltk.org/",  "crawlerPrefix": "https://www.nltk.org/"}
 {  "name": "Neo4j",  "crawlerStart": "https://neo4j.com/docs/",  "crawlerPrefix": "https://neo4j.com/docs/"}
 {  "name": "NestJS",  "crawlerStart": "https://docs.nestjs.com/",  "crawlerPrefix": "https://docs.nestjs.com/"}
