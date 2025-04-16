@@ -104,6 +104,7 @@
 {  "name": "OpenCV",  "crawlerStart": "https://docs.opencv.org/4.x/",  "crawlerPrefix": "https://docs.opencv.org/4.x/"}
 {  "name": "PHP",  "crawlerStart": "https://www.php.net/manual/en/",  "crawlerPrefix": "https://www.php.net/manual/en/"}
 {  "name": "Pandas",  "crawlerStart": "https://pandas.pydata.org/docs/",  "crawlerPrefix": "https://pandas.pydata.org/docs/"}
+{  "name": "PayPal",  "crawlerStart": "https://developer.paypal.com/",  "crawlerPrefix": "https://developer.paypal.com/"}
 {  "name": "Playwright",  "crawlerStart": "https://playwright.dev/docs/intro",  "crawlerPrefix": "https://playwright.dev/docs/"}
 {  "name": "Pnpm",  "crawlerStart": "https://pnpm.io/",  "crawlerPrefix": "https://pnpm.io/"}
 {  "name": "PostgreSQL",  "crawlerStart": "https://www.postgresql.org/docs/current/",  "crawlerPrefix": "https://www.postgresql.org/docs/current/"}
