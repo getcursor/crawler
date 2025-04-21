@@ -108,6 +108,7 @@
 {  "name": "OpenCV",  "crawlerStart": "https://docs.opencv.org/4.x/",  "crawlerPrefix": "https://docs.opencv.org/4.x/"}
 {  "name": "PHP",  "crawlerStart": "https://www.php.net/manual/en/",  "crawlerPrefix": "https://www.php.net/manual/en/"}
 {  "name": "Pandas",  "crawlerStart": "https://pandas.pydata.org/docs/",  "crawlerPrefix": "https://pandas.pydata.org/docs/"}
+{  "name": "Pinia",  "crawlerStart": "https://pinia.vuejs.org/core-concepts/",  "crawlerPrefix": "https://pinia.vuejs.org/"}
 {  "name": "Playwright",  "crawlerStart": "https://playwright.dev/docs/intro",  "crawlerPrefix": "https://playwright.dev/docs/"}
 {  "name": "Pnpm",  "crawlerStart": "https://pnpm.io/",  "crawlerPrefix": "https://pnpm.io/"}
 {  "name": "Polars",  "crawlerStart": "https://docs.pola.rs/",  "crawlerPrefix": "https://docs.pola.rs/"}
