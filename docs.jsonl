@@ -49,6 +49,7 @@
 {  "name": "Emacs",  "crawlerStart": "https://www.gnu.org/software/emacs/manual/html_node/emacs/",  "crawlerPrefix": "https://www.gnu.org/software/emacs/manual/html_node/emacs/"}
 {  "name": "Expo",  "crawlerStart": "https://docs.expo.dev/",  "crawlerPrefix": "https://docs.expo.dev/"}
 {  "name": "Express",  "crawlerStart": "https://expressjs.com/en/5x/api.html",  "crawlerPrefix": "https://expressjs.com/en/5x/"}
+{  "name": "Fal.ai",  "crawlerStart": "https://docs.fal.ai/quick-start",  "crawlerPrefix": "https://docs.fal.ai/"}
 {  "name": "FFmpeg",  "crawlerStart": "https://ffmpeg.org/ffmpeg.html",  "crawlerPrefix": "https://ffmpeg.org/ffmpeg.html"}
 {  "name": "Fabric.js",  "crawlerStart": "http://fabricjs.com/docs/",  "crawlerPrefix": "http://fabricjs.com/docs/"}
 {  "name": "FastAPI",  "crawlerStart": "https://fastapi.tiangolo.com/tutorial/",  "crawlerPrefix": "https://fastapi.tiangolo.com/tutorial/"}
