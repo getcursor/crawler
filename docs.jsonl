@@ -67,6 +67,7 @@
 {  "name": "GraphQL",  "crawlerStart": "https://graphql.org/learn/",  "crawlerPrefix": "https://graphql.org/learn/"}
 {  "name": "HTML",  "crawlerStart": "https://developer.mozilla.org/en-US/docs/Web/HTML",  "crawlerPrefix": "https://developer.mozilla.org/en-US/docs/Web/HTML"}
 {  "name": "Heroku",  "crawlerStart": "https://devcenter.heroku.com/categories/reference",  "crawlerPrefix": "https://devcenter.heroku.com/"}
+{  "name": "Hono",  "crawlerStart": "https://hono.dev/docs/",  "crawlerPrefix": "https://hono.dev/docs/"}
 {  "name": "Insomnia",  "crawlerStart": "https://docs.insomnia.rest/",  "crawlerPrefix": "https://docs.insomnia.rest/"}
 {  "name": "Ionic",  "crawlerStart": "https://ionicframework.com/docs",  "crawlerPrefix": "https://ionicframework.com/docs"}
 {  "name": "JAX",  "crawlerStart": "https://jax.readthedocs.io/en/latest/",  "crawlerPrefix": "https://jax.readthedocs.io/"}
