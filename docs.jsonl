@@ -90,6 +90,7 @@
 {  "name": "Mockito",  "crawlerStart": "https://javadoc.io/doc/org.mockito/mockito-core/latest/index.html",  "crawlerPrefix": "https://javadoc.io/doc/org.mockito/mockito-core/latest/"}
 {  "name": "MongoDB",  "crawlerStart": "https://www.mongodb.com/docs/manual/",  "crawlerPrefix": "https://www.mongodb.com/docs/manual/"}
 {  "name": "MySQL",  "crawlerStart": "https://dev.mysql.com/doc/",  "crawlerPrefix": "https://dev.mysql.com/doc/"}
+{  "name": "Mypy",  "crawlerStart": "https://mypy.readthedocs.io/en/stable/",  "crawlerPrefix": "https://mypy.readthedocs.io/en/stable/"}
 {  "name": "NLTK",  "crawlerStart": "https://www.nltk.org/",  "crawlerPrefix": "https://www.nltk.org/"}
 {  "name": "Neo4j",  "crawlerStart": "https://neo4j.com/docs/",  "crawlerPrefix": "https://neo4j.com/docs/"}
 {  "name": "NestJS",  "crawlerStart": "https://docs.nestjs.com/",  "crawlerPrefix": "https://docs.nestjs.com/"}
@@ -100,6 +101,7 @@
 {  "name": "Notion",  "crawlerStart": "https://developers.notion.com/reference/",  "crawlerPrefix": "https://developers.notion.com/reference/"}
 {  "name": "NumPy",  "crawlerStart": "https://numpy.org/doc/stable/",  "crawlerPrefix": "https://numpy.org/doc/stable/"}
 {  "name": "Nuxt",  "crawlerStart": "https://nuxt.com/docs",  "crawlerPrefix": "https://nuxt.com/docs"}
+{  "name": "Nx",  "crawlerStart": "https://nx.dev/getting-started/intro",  "crawlerPrefix": "https://nx.dev/"}
 {  "name": "OpenAI",  "crawlerStart": "https://platform.openai.com/docs/",  "crawlerPrefix": "https://platform.openai.com/docs/"}
 {  "name": "OpenCV",  "crawlerStart": "https://docs.opencv.org/4.x/",  "crawlerPrefix": "https://docs.opencv.org/4.x/"}
 {  "name": "PHP",  "crawlerStart": "https://www.php.net/manual/en/",  "crawlerPrefix": "https://www.php.net/manual/en/"}
@@ -107,11 +109,14 @@
 {  "name": "Playwright",  "crawlerStart": "https://playwright.dev/docs/intro",  "crawlerPrefix": "https://playwright.dev/docs/"}
 {  "name": "Pnpm",  "crawlerStart": "https://pnpm.io/",  "crawlerPrefix": "https://pnpm.io/"}
 {  "name": "Polars",  "crawlerStart": "https://docs.pola.rs/",  "crawlerPrefix": "https://docs.pola.rs/"}
+{  "name": "Polaris",  "crawlerStart": "https://polaris.shopify.com/",  "crawlerPrefix": "https://polaris.shopify.com/"}
 {  "name": "PostgreSQL",  "crawlerStart": "https://www.postgresql.org/docs/current/",  "crawlerPrefix": "https://www.postgresql.org/docs/current/"}
 {  "name": "Postman",  "crawlerStart": "https://learning.postman.com/docs/",  "crawlerPrefix": "https://learning.postman.com/docs/"}
 {  "name": "Prisma",  "crawlerStart": "https://www.prisma.io/docs",  "crawlerPrefix": "https://www.prisma.io/docs"}
+{  "name": "Pulumi",  "crawlerStart": "https://www.pulumi.com/docs/",  "crawlerPrefix": "https://www.pulumi.com/docs/"}
 {  "name": "Puppeteer",  "crawlerStart": "https://pptr.dev/",  "crawlerPrefix": "https://pptr.dev/"}
 {  "name": "PyTorch",  "crawlerStart": "https://pytorch.org/docs/stable/",  "crawlerPrefix": "https://pytorch.org/docs/stable/"}
+{  "name": "Pytest",  "crawlerStart": "https://docs.pytest.org/en/stable/",  "crawlerPrefix": "https://docs.pytest.org/en/stable/"}
 {  "name": "Python",  "crawlerStart": "https://docs.python.org/3/",  "crawlerPrefix": "https://docs.python.org/3/"}
 {  "name": "ROS",  "crawlerStart": "https://docs.ros.org/en/rolling/",  "crawlerPrefix": "https://docs.ros.org/en/rolling/"}
 {  "name": "Railway",  "crawlerStart": "https://docs.railway.app/",  "crawlerPrefix": "https://docs.railway.app/"}
@@ -120,18 +125,21 @@
 {  "name": "Regex",  "crawlerStart": "https://www.regular-expressions.info/",  "crawlerPrefix": "https://www.regular-expressions.info/"}
 {  "name": "Remix",  "crawlerStart": "https://remix.run/docs/en/main",  "crawlerPrefix": "https://remix.run/docs/"}
 {  "name": "Ruby",  "crawlerStart": "https://docs.ruby-lang.org/en/master/",  "crawlerPrefix": "https://docs.ruby-lang.org/en/"}
+{  "name": "Ruff",  "crawlerStart": "https://docs.astral.sh/ruff/",  "crawlerPrefix": "https://docs.astral.sh/ruff/"}
 {  "name": "Rust",  "crawlerStart": "https://doc.rust-lang.org/book/",  "crawlerPrefix": "https://doc.rust-lang.org/book/"}
 {  "name": "Rust Stdlib",  "crawlerStart": "https://doc.rust-lang.org/std/",  "crawlerPrefix": "https://doc.rust-lang.org/std/"}
 {  "name": "SQLite",  "crawlerStart": "https://www.sqlite.org/docs.html",  "crawlerPrefix": "https://www.sqlite.org/"}
 {  "name": "Scikit-learn",  "crawlerStart": "https://scikit-learn.org/stable/",  "crawlerPrefix": "https://scikit-learn.org/stable/"}
 {  "name": "Selenium",  "crawlerStart": "https://www.selenium.dev/documentation/",  "crawlerPrefix": "https://www.selenium.dev/documentation/"}
 {  "name": "Sentry",  "crawlerStart": "https://docs.sentry.io/",  "crawlerPrefix": "https://docs.sentry.io/"}
+{  "name": "Shadcn",  "crawlerStart": "https://ui.shadcn.com/docs",  "crawlerPrefix": "https://ui.shadcn.com/docs"}
 {  "name": "Socket.io",  "crawlerStart": "https://socket.io/docs/v4/",  "crawlerPrefix": "https://socket.io/docs/v4/"}
 {  "name": "Solidity",  "crawlerStart": "https://docs.soliditylang.org/en/latest/",  "crawlerPrefix": "https://docs.soliditylang.org/en/latest/"}
 {  "name": "Spring",  "crawlerStart": "https://docs.spring.io/spring-framework/reference/",  "crawlerPrefix": "https://docs.spring.io/spring-framework/reference/"}
 {  "name": "Stripe",  "crawlerStart": "https://stripe.com/docs",  "crawlerPrefix": "https://stripe.com/docs"}
 {  "name": "Supabase",  "crawlerStart": "https://supabase.com/docs",  "crawlerPrefix": "https://supabase.com/docs"}
 {  "name": "Svelte",  "crawlerStart": "https://svelte.dev/docs",  "crawlerPrefix": "https://svelte.dev/docs"}
+{  "name": "Symfony",  "crawlerStart": "https://symfony.com/doc/current/",  "crawlerPrefix": "https://symfony.com/doc/"}
 {  "name": "Tailwind",  "crawlerStart": "https://tailwindcss.com/docs",  "crawlerPrefix": "https://tailwindcss.com/docs"}
 {  "name": "Terraform",  "crawlerStart": "https://developer.hashicorp.com/terraform/docs",  "crawlerPrefix": "https://developer.hashicorp.com/terraform/docs"}
 {  "name": "Three.js",  "crawlerStart": "https://threejs.org/docs/",  "crawlerPrefix": "https://threejs.org/docs/"}
@@ -139,6 +147,7 @@
 {  "name": "TypeScript",  "crawlerStart": "https://www.typescriptlang.org/docs/",  "crawlerPrefix": "https://www.typescriptlang.org/docs/"}
 {  "name": "Unity",  "crawlerStart": "https://docs.unity3d.com/Manual/",  "crawlerPrefix": "https://docs.unity3d.com/Manual/"}
 {  "name": "Unreal Engine",  "crawlerStart": "https://docs.unrealengine.com/5.0/en-US/",  "crawlerPrefix": "https://docs.unrealengine.com/5.0/en-US/"}
+{  "name": "Uv",  "crawlerStart": "https://docs.astral.sh/uv/",  "crawlerPrefix": "https://docs.astral.sh/uv/"}
 {  "name": "Vercel",  "crawlerStart": "https://vercel.com/docs",  "crawlerPrefix": "https://vercel.com/docs"}
 {  "name": "Vim",  "crawlerStart": "https://vimhelp.org/",  "crawlerPrefix": "https://vimhelp.org/"}
 {  "name": "Vite",  "crawlerStart": "https://vitejs.dev/guide/",  "crawlerPrefix": "https://vitejs.dev/guide/"}
