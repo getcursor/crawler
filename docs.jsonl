@@ -143,6 +143,7 @@
 {  "name": "TypeScript",  "crawlerStart": "https://www.typescriptlang.org/docs/",  "crawlerPrefix": "https://www.typescriptlang.org/docs/"}
 {  "name": "Unity",  "crawlerStart": "https://docs.unity3d.com/Manual/",  "crawlerPrefix": "https://docs.unity3d.com/Manual/"}
 {  "name": "Unreal Engine",  "crawlerStart": "https://docs.unrealengine.com/5.0/en-US/",  "crawlerPrefix": "https://docs.unrealengine.com/5.0/en-US/"}
+{  "name": "Uv",  "crawlerStart": "https://docs.astral.sh/uv/",  "crawlerPrefix": "https://docs.astral.sh/uv/"}
 {  "name": "Vercel",  "crawlerStart": "https://vercel.com/docs",  "crawlerPrefix": "https://vercel.com/docs"}
 {  "name": "Vim",  "crawlerStart": "https://vimhelp.org/",  "crawlerPrefix": "https://vimhelp.org/"}
 {  "name": "Vite",  "crawlerStart": "https://vitejs.dev/guide/",  "crawlerPrefix": "https://vitejs.dev/guide/"}
