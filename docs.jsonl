@@ -108,6 +108,7 @@
 {  "name": "Pandas",  "crawlerStart": "https://pandas.pydata.org/docs/",  "crawlerPrefix": "https://pandas.pydata.org/docs/"}
 {  "name": "Playwright",  "crawlerStart": "https://playwright.dev/docs/intro",  "crawlerPrefix": "https://playwright.dev/docs/"}
 {  "name": "Pnpm",  "crawlerStart": "https://pnpm.io/",  "crawlerPrefix": "https://pnpm.io/"}
+{  "name": "Polars",  "crawlerStart": "https://docs.pola.rs/",  "crawlerPrefix": "https://docs.pola.rs/"}
 {  "name": "Polaris",  "crawlerStart": "https://polaris.shopify.com/",  "crawlerPrefix": "https://polaris.shopify.com/"}
 {  "name": "PostgreSQL",  "crawlerStart": "https://www.postgresql.org/docs/current/",  "crawlerPrefix": "https://www.postgresql.org/docs/current/"}
 {  "name": "Postman",  "crawlerStart": "https://learning.postman.com/docs/",  "crawlerPrefix": "https://learning.postman.com/docs/"}
