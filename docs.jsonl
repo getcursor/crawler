@@ -149,6 +149,7 @@
 {  "name": "Symfony",  "crawlerStart": "https://symfony.com/doc/current/",  "crawlerPrefix": "https://symfony.com/doc/"}
 {  "name": "Tailwind",  "crawlerStart": "https://tailwindcss.com/docs",  "crawlerPrefix": "https://tailwindcss.com/docs"}
 {  "name": "Terraform",  "crawlerStart": "https://developer.hashicorp.com/terraform/docs",  "crawlerPrefix": "https://developer.hashicorp.com/terraform/docs"}
+{  "name": "Tokio.rs", "crawlerStart": "https://docs.rs/tokio/latest/tokio/", "crawlerPrefix": "https://docs.rs/tokio/latest/tokio/"},
 {  "name": "Three.js",  "crawlerStart": "https://threejs.org/docs/",  "crawlerPrefix": "https://threejs.org/docs/"}
 {  "name": "Tinygrad",  "crawlerStart": "https://docs.tinygrad.org",  "crawlerPrefix": "https://docs.tinygrad.org"}
 {  "name": "TypeScript",  "crawlerStart": "https://www.typescriptlang.org/docs/",  "crawlerPrefix": "https://www.typescriptlang.org/docs/"}
