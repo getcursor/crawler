@@ -13,7 +13,7 @@
 {  "name": "Ant Design",  "crawlerStart": "https://ant.design/docs/react/introduce",  "crawlerPrefix": "https://ant.design/docs/react/"}
 {  "name": "Apache Airflow",  "crawlerStart": "https://airflow.apache.org/docs/apache-airflow/stable/index.html",  "crawlerPrefix": "https://airflow.apache.org/docs/apache-airflow/stable/"}
 {  "name": "Apollo GraphQL",  "crawlerStart": "https://www.apollographql.com/docs/",  "crawlerPrefix": "https://www.apollographql.com/docs/"}
-{  "name": "Apple Developer Documention",  "crawlerStart": "https://developer.apple.com/documentation/",  "crawlerPrefix": "https://developer.apple.com/documentation/"}
+{  "name": "Apple Developer Documentation",  "crawlerStart": "https://developer.apple.com/documentation/",  "crawlerPrefix": "https://developer.apple.com/documentation/"}
 {  "name": "Astro",  "crawlerStart": "https://docs.astro.build/en/",  "crawlerPrefix": "https://docs.astro.build/en/"}
 {  "name": "Auth0",  "crawlerStart": "https://auth0.com/docs",  "crawlerPrefix": "https://auth0.com/docs"}
 {  "name": "Azure Pipelines",  "crawlerStart": "https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops",  "crawlerPrefix": "https://docs.microsoft.com/en-us/azure/devops/pipelines/"}
