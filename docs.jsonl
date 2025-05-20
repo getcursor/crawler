@@ -33,7 +33,7 @@
 {  "name": "Cypress",  "crawlerStart": "https://docs.cypress.io/guides/overview/why-cypress",  "crawlerPrefix": "https://docs.cypress.io/guides/"}
 {  "name": "D3",  "crawlerStart": "https://d3js.org/getting-started",  "crawlerPrefix": "https://d3js.org/"}
 {  "name": "Datadog",  "crawlerStart": "https://docs.datadoghq.com/",  "crawlerPrefix": "https://docs.datadoghq.com/"}
-{  "name": "Deno",  "crawlerStart": "https://deno.land/manual@v1.35.0/introduction",  "crawlerPrefix": "https://deno.land/manual@v1.35.0/"}
+{  "name": "Deno",  "crawlerStart": "https://docs.deno.com/",  "crawlerPrefix": "https://docs.deno.com/"}
 {  "name": "DigitalOcean",  "crawlerStart": "https://docs.digitalocean.com/",  "crawlerPrefix": "https://docs.digitalocean.com/"}
 {  "name": "Discord API",  "crawlerStart": "https://discord.com/developers/docs/intro",  "crawlerPrefix": "https://discord.com/developers/docs"}
 {  "name": "Django",  "crawlerStart": "https://docs.djangoproject.com/en/4.2/",  "crawlerPrefix": "https://docs.djangoproject.com/en/4.2/"}
