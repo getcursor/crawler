@@ -118,6 +118,7 @@
 {  "name": "Polars",  "crawlerStart": "https://docs.pola.rs/",  "crawlerPrefix": "https://docs.pola.rs/"}
 {  "name": "PostgreSQL",  "crawlerStart": "https://www.postgresql.org/docs/current/",  "crawlerPrefix": "https://www.postgresql.org/docs/current/"}
 {  "name": "Postman",  "crawlerStart": "https://learning.postman.com/docs/",  "crawlerPrefix": "https://learning.postman.com/docs/"}
+{  "name": "Prefect",  "crawlerStart": "https://docs.prefect.io/v3/get-started",  "crawlerPrefix": "https://docs.prefect.io/v3/"}
 {  "name": "Prisma",  "crawlerStart": "https://www.prisma.io/docs",  "crawlerPrefix": "https://www.prisma.io/docs"}
 {  "name": "Pulumi",  "crawlerStart": "https://www.pulumi.com/docs/",  "crawlerPrefix": "https://www.pulumi.com/docs/"}
 {  "name": "Puppeteer",  "crawlerStart": "https://pptr.dev/",  "crawlerPrefix": "https://pptr.dev/"}
