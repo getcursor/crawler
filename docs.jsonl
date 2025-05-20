@@ -13,7 +13,7 @@
 {  "name": "Ant Design",  "crawlerStart": "https://ant.design/docs/react/introduce",  "crawlerPrefix": "https://ant.design/docs/react/"}
 {  "name": "Apache Airflow",  "crawlerStart": "https://airflow.apache.org/docs/apache-airflow/stable/index.html",  "crawlerPrefix": "https://airflow.apache.org/docs/apache-airflow/stable/"}
 {  "name": "Apollo GraphQL",  "crawlerStart": "https://www.apollographql.com/docs/",  "crawlerPrefix": "https://www.apollographql.com/docs/"}
-{  "name": "Apple Developer Documention",  "crawlerStart": "https://developer.apple.com/documentation/",  "crawlerPrefix": "https://developer.apple.com/documentation/"}
+{  "name": "Apple Developer Documentation",  "crawlerStart": "https://developer.apple.com/documentation/",  "crawlerPrefix": "https://developer.apple.com/documentation/"}
 {  "name": "Astro",  "crawlerStart": "https://docs.astro.build/en/",  "crawlerPrefix": "https://docs.astro.build/en/"}
 {  "name": "Auth0",  "crawlerStart": "https://auth0.com/docs",  "crawlerPrefix": "https://auth0.com/docs"}
 {  "name": "Azure Pipelines",  "crawlerStart": "https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops",  "crawlerPrefix": "https://docs.microsoft.com/en-us/azure/devops/pipelines/"}
@@ -152,6 +152,7 @@
 {  "name": "Three.js",  "crawlerStart": "https://threejs.org/docs/",  "crawlerPrefix": "https://threejs.org/docs/"}
 {  "name": "Tinygrad",  "crawlerStart": "https://docs.tinygrad.org",  "crawlerPrefix": "https://docs.tinygrad.org"}
 {  "name": "Tokio.rs",  "crawlerStart": "https://docs.rs/tokio/latest/tokio/",  "crawlerPrefix": "https://docs.rs/tokio/latest/tokio/"}
+{  "name": "Transformers",  "crawlerStart": "https://huggingface.co/docs/transformers/index",  "crawlerPrefix": "https://huggingface.co/docs/transformers/"}
 {  "name": "TypeScript",  "crawlerStart": "https://www.typescriptlang.org/docs/",  "crawlerPrefix": "https://www.typescriptlang.org/docs/"}
 {  "name": "Unity",  "crawlerStart": "https://docs.unity3d.com/Manual/",  "crawlerPrefix": "https://docs.unity3d.com/Manual/"}
 {  "name": "Unreal Engine",  "crawlerStart": "https://docs.unrealengine.com/5.0/en-US/",  "crawlerPrefix": "https://docs.unrealengine.com/5.0/en-US/"}
@@ -162,5 +163,6 @@
 {  "name": "Vitest",  "crawlerStart": "https://vitest.dev/guide/",  "crawlerPrefix": "https://vitest.dev/guide/"}
 {  "name": "Vue",  "crawlerStart": "https://vuejs.org/guide/introduction.html",  "crawlerPrefix": "https://vuejs.org/guide/"}
 {  "name": "Webpack",  "crawlerStart": "https://webpack.js.org/concepts/",  "crawlerPrefix": "https://webpack.js.org/concepts/"}
+{  "name": "XGBoost",  "crawlerStart": "https://xgboost.readthedocs.io/en/stable/",  "crawlerPrefix": "https://xgboost.readthedocs.io/en/stable/"}
 {  "name": "Zsh",  "crawlerStart": "https://zsh.sourceforge.io/Doc/",  "crawlerPrefix": "https://zsh.sourceforge.io/Doc/"}
 {  "name": "help",  "crawlerStart": "https://docs.cursor.com/get-started/welcome",  "crawlerPrefix": "https://docs.cursor.com/"}
